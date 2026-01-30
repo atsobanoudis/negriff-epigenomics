@@ -44,7 +44,7 @@ def run_gemini_prompt(abstract):
     print("="*80)
     
     # Build command
-    cmd = f'gemini "{prompt}" -m gemini-2.5-pro'
+    cmd = f'gemini "{prompt}" -m gemini-3-pro-preview'
     
     # Run it
     result = subprocess.run(cmd, shell=True, capture_output=True, text=True, encoding='utf-8')
