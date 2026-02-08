@@ -63,8 +63,8 @@ def run_gemini_prompt(abstract):
 
 def main():
     """Main function to process the CSV file with Gemini."""
-    input_csv_path = "02_lit-search/csv-EWASTitleA-set_with_abstracts.csv"
-    output_csv_path = "02_lit-search/csv-EWASTitleA-set_processed.csv"
+    input_csv_path = "03_lit-search/csv-EWASTitleA-set_with_abstracts.csv"
+    output_csv_path = "03_lit-search/csv-EWASTitleA-set_processed.csv"
 
     if not os.path.exists(input_csv_path):
         print(f"Error: Input file '{input_csv_path}' not found. Please run process_abstracts.py first.")

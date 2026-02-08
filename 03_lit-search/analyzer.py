@@ -80,8 +80,8 @@ def run_gemini_prompt(abstract):
 
 
 def main():
-    input_csv = "02_lit-search/csv-EWASTitleA-set_with_abstracts.csv"
-    output_csv = "02_lit-search/csv-EWASTitleA-set_processed.csv"
+    input_csv = "03_lit-search/csv-EWASTitleA-set_with_abstracts.csv"
+    output_csv = "03_lit-search/csv-EWASTitleA-set_processed.csv"
     
     with open(input_csv, "r", encoding="utf-8-sig") as f:
         reader = csv.DictReader(f)

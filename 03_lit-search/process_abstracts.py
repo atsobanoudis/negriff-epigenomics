@@ -62,9 +62,9 @@ def fetch_abstracts_batch(pmids, email):
 
 def main():
     """Main function to process the CSV file."""
-    input_csv_path = "02_lit-search/csv-EWASTitleA-set.csv"
+    input_csv_path = "03_lit-search/csv-EWASTitleA-set.csv"
     # Output path for the file with abstracts
-    output_csv_path = "02_lit-search/csv-EWASTitleA-set_with_abstracts.csv"
+    output_csv_path = "03_lit-search/csv-EWASTitleA-set_with_abstracts.csv"
     email = "alex.tsobanoudis@kp.org"
 
     # Step 1: Read CSV and identify PMIDs to fetch
