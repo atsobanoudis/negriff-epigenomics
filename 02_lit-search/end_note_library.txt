@@ -1,0 +1,1255 @@
+﻿"Journal Article"	"D. Smeeth; S. Ecker; O. Chervova; F. McEwen; E. Karam; S. Beck; M. Pluess"	"2025"	"War Exposure and DNA Methylation in Syrian Refugee Children and Adolescents"	""	"JAMA Psychiatry"	""	""	"82"	""	"2"	"191-200"	""	""	""	""	"Feb 1"	""	""	"War Exposure and DNA Methylation in Syrian Refugee Children and Adolescents"	""	"2168-622X (Print)
+2168-622x"	"10.1001/jamapsychiatry.2024.3714"	""	""	""	"Conflict of Interest Disclosures: None reported."	"PMC11579893"	""	""	""	""	""	""	"39565630"	""	""	"Humans
+*DNA Methylation
+*Refugees/psychology/statistics & numerical data
+Child
+Adolescent
+Female
+Syria/ethnology
+Male
+*War Exposure/adverse effects
+Saliva/chemistry
+Lebanon
+Epigenesis, Genetic
+Cohort Studies"	"IMPORTANCE: Exposure to war is associated with poor mental health outcomes. Adverse and traumatic experiences can lead to long-lasting DNA methylation changes, potentially mediating the link between adversity and mental health. To date, limited studies have investigated the impact of war on DNA methylation in children or adolescents, hampering our understanding of the biological impact of war exposure. OBJECTIVE: To identify salivary DNA methylation differences associated with war exposure in refugee children and adolescents. DESIGN, SETTING, AND PARTICIPANTS: This cohort study included Syrian refugee children and adolescents, and their primary caregiver were recruited from tented settlements in Lebanon. Data collection was carried out in 2 waves, 1 year apart, from October 2017 to January 2018 and October 2018 to January 2019. Children and their caregiver were interviewed, and children provided saliva samples for DNA extraction. Data analysis was conducted in 2022, 2023, and 2024. EXPOSURE: War exposure assessed by interviewing children and their caregiver using the War Events Questionnaire. MAIN OUTCOMES AND MEASURES: Salivary DNA methylation levels were assayed with the Infinium MethylationEPIC BeadChip (Illumina). Epigenetic aging acceleration was estimated using a set of preexisting epigenetic aging clocks. A literature search was conducted to identify previously reported DNA methylation correlates of childhood trauma. RESULTS: The study population included 1507 children and adolescents (mean [SD] age, 11.3 [2.4] years; age range, 6-19 years; 793 female [52.6%]). A total of 1449 children provided saliva samples for DNA extraction in year 1, and 872 children provided samples in year 2. Children who reported war events had a number of differentially methylated sites and regions. Enrichment analyses indicated an enrichment of gene sets associated with transmembrane transport, neurotransmission, and intracellular movement in genes that exhibited differential methylation. Sex-stratified analyses found a number of sex-specific DNA methylation differences associated with war exposure. Only 2 of 258 (0.8%) previously reported trauma-associated DNA methylation sites were associated with war exposure (B = -0.004; 95% CI, -0.005 to -0.003; Bonferroni P = .04 and B = -0.005; 95% CI, -0.006 to -0.004; Bonferroni P = .03). Any war exposure or bombardment was nominally associated with decreased epigenetic age using the Horvath multitissue clock (B = -0.39; 95% CI, -0.63 to -0.14; P = .007 and B = -0.42; 95% CI, -0.73 to -0.11; P = .002). CONCLUSIONS AND RELEVANCE: In this cohort of Syrian refugee children and adolescents, war exposure was associated with a small number of distinct differences in salivary DNA methylation."	"2168-6238
+Smeeth, Demelza
+Ecker, Simone
+Chervova, Olga
+McEwen, Fiona
+Karam, Elie
+Beck, Stephan
+Pluess, Michael
+Journal Article
+United States
+2024/11/20
+JAMA Psychiatry. 2025 Feb 1;82(2):191-200. doi: 10.1001/jamapsychiatry.2024.3714."	""	"https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2826082"	""	"Department of Biological and Experimental Psychology, School of Biological and Behavioural Sciences, Queen Mary University of London, London, United Kingdom.
+School of Psychology, University of Surrey, Guildford, United Kingdom.
+UCL Cancer Institute, University College London, London, United Kingdom.
+Department of War Studies, King's College London, London, United Kingdom.
+Department of Psychiatry and Clinical Psychology, Balamand University, St Georges Hospital University Medical Center, Institute for Development, Research, Advocacy and Applied Care, Beirut, Lebanon."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"M. Mitjans; J. Seidel; M. Begemann; F. Bockhop; J. Moya-Higueras; V. Bansal; J. Wesolowski; A. Seelbach; M. I. Ibáñez; F. Kovacevic; O. Duvar; L. Fañanás; H. U. Wolf; G. Ortet; P. Zwanzger; V. Klein; I. Lange; A. Tänzer; M. Dudeck; L. Penke; L. T. van Elst; R. A. Bittner; R. Schmidmeier; R. Freese; R. Müller-Isberner; J. Wiltfang; T. Bliesener; S. Bonn; L. Poustka; J. L. Müller; B. Arias; H. Ehrenreich"	"2019"	"Violent aggression predicted by multiple pre-adult environmental hits"	""	"Mol Psychiatry"	""	""	"24"	""	"10"	"1549-1564"	""	""	""	"20180524"	"Oct"	""	""	"Violent aggression predicted by multiple pre-adult environmental hits"	""	"1359-4184 (Print)
+1359-4184"	"10.1038/s41380-018-0043-3"	""	""	""	"The authors declare that they have no conflict of interest."	"PMC6756097"	""	""	""	""	""	""	"29795411"	""	""	"Adolescent
+Adult
+Adverse Childhood Experiences
+Aggression/*psychology
+Epigenesis, Genetic/genetics
+Exposure to Violence/psychology
+Female
+Histone Deacetylase 1/genetics
+Humans
+Male
+Odds Ratio
+Risk Factors
+Schizophrenia/epidemiology/genetics
+Violence/*psychology"	"Early exposure to negative environmental impact shapes individual behavior and potentially contributes to any mental disease. We reported previously that accumulated environmental risk markedly decreases age at schizophrenia onset. Follow-up of matched extreme group individuals (≤1 vs. ≥3 risks) unexpectedly revealed that high-risk subjects had >5 times greater probability of forensic hospitalization. In line with longstanding sociological theories, we hypothesized that risk accumulation before adulthood induces violent aggression and criminal conduct, independent of mental illness. We determined in 6 independent cohorts (4 schizophrenia and 2 general population samples) pre-adult risk exposure, comprising urbanicity, migration, physical and sexual abuse as primary, and cannabis or alcohol as secondary hits. All single hits by themselves were marginally associated with higher violent aggression. Most strikingly, however, their accumulation strongly predicted violent aggression (odds ratio 10.5). An epigenome-wide association scan to detect differential methylation of blood-derived DNA of selected extreme group individuals yielded overall negative results. Conversely, determination in peripheral blood mononuclear cells of histone-deacetylase1 mRNA as 'umbrella mediator' of epigenetic processes revealed an increase in the high-risk group, suggesting lasting epigenetic alterations. Together, we provide sound evidence of a disease-independent unfortunate relationship between well-defined pre-adult environmental hits and violent aggression, calling for more efficient prevention."	"1476-5578
+Mitjans, Marina
+Seidel, Jan
+Begemann, Martin
+Bockhop, Fabian
+Moya-Higueras, Jorge
+Bansal, Vikas
+Orcid: 0000-0002-0944-7226
+Wesolowski, Janina
+Seelbach, Anna
+Ibáñez, Manuel Ignacio
+Kovacevic, Fatka
+Duvar, Oguzhan
+Fañanás, Lourdes
+Wolf, Hannah-Ulrike
+Ortet, Generós
+Zwanzger, Peter
+Klein, Verena
+Lange, Ina
+Tänzer, Andreas
+Dudeck, Manuela
+Penke, Lars
+van Elst, Ludger Tebartz
+Bittner, Robert A
+Schmidmeier, Richard
+Freese, Roland
+Müller-Isberner, Rüdiger
+Wiltfang, Jens
+Orcid: 0000-0003-1492-5330
+Bliesener, Thomas
+Bonn, Stefan
+Orcid: 0000-0003-4366-5662
+Poustka, Luise
+Müller, Jürgen L
+Arias, Bárbara
+Ehrenreich, Hannelore
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2018/05/26
+Mol Psychiatry. 2019 Oct;24(10):1549-1564. doi: 10.1038/s41380-018-0043-3. Epub 2018 May 24."	""	"https://pmc.ncbi.nlm.nih.gov/articles/PMC6756097/"	""	"Clinical Neuroscience, Max Planck Institute of Experimental Medicine, Göttingen, Germany.
+DFG Research Center for Nanoscale Microscopy and Molecular Physiology of the Brain (CNMPB), Göttingen, Germany.
+Instituto de Salud Carlos III, Centro de Investigación Biomédica en Red de Salud Mental (CIBERSAM), Madrid, Spain.
+Department of Psychiatry & Psychotherapy, University of Göttingen, Göttingen, Germany.
+Department of Psychology, Faculty of Education, Psychology and Social Work, University of Lleida, Lleida, Spain.
+Center for Molecular Neurobiology, Institute of Medical Systems Biology, University Clinic Hamburg-Eppendorf, Hamburg, Germany.
+Department of Basic and Clinical Psychology and Psychobiology, Universitat Jaume I, Castelló, Spain.
+Departament Biologia Evolutiva, Ecologia i Ciències Ambientals, Facultat de Biologia and Institut de Biomedicina (IBUB), Universitat de Barcelona, Barcelona, Spain.
+KBO-Inn-Salzach-Klinikum, Gabersee, Wasserburg am Inn, Germany.
+KBO-Isar-Amper-Klinikum, Taufkirchen (Vils), Germany.
+Competence Center for Forensic Psychiatry, Lower Saxony, MRV Moringen, Germany.
+Department of Forensic Psychiatry & Psychotherapy, KRH, Wunstorf, Germany.
+Forensic Psychiatry and Psychotherapy, University of Ulm, Ulm, Germany.
+Institute of Psychology, University of Göttingen, Göttingen, Germany.
+Department of Psychiatry & Psychotherapy, University of Freiburg, Freiburg, Germany.
+Department of Psychiatry & Psychotherapy, University of Frankfurt, Frankfurt, Germany.
+Vitos Forensic Psychiatric Hospital, Haina, Germany.
+Criminological Research Institute of Lower Saxony, Hannover, Germany.
+Department of Child and Adolescent Psychiatry & Psychotherapy, University of Göttingen, Göttingen, Germany.
+Asklepios Hospital for Forensic Psychiatry & Psychotherapy, Göttingen, Germany.
+Instituto de Salud Carlos III, Centro de Investigación Biomédica en Red de Salud Mental (CIBERSAM), Madrid, Spain. barbara.arias@ub.edu.
+Departament Biologia Evolutiva, Ecologia i Ciències Ambientals, Facultat de Biologia and Institut de Biomedicina (IBUB), Universitat de Barcelona, Barcelona, Spain. barbara.arias@ub.edu.
+Clinical Neuroscience, Max Planck Institute of Experimental Medicine, Göttingen, Germany. ehrenreich@em.mpg.de.
+DFG Research Center for Nanoscale Microscopy and Molecular Physiology of the Brain (CNMPB), Göttingen, Germany. ehrenreich@em.mpg.de."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"J. Liu; J. Cerutti; A. A. Lussier; Y. Zhu; B. J. Smith; A. Smith; E. C. Dunn"	"2023"	"Socioeconomic changes predict genome-wide DNA methylation in childhood"	""	"Hum Mol Genet"	""	""	"32"	""	"5"	"709-719"	""	""	""	""	"Feb 19"	""	""	"Socioeconomic changes predict genome-wide DNA methylation in childhood"	""	"0964-6906 (Print)
+0964-6906"	"10.1093/hmg/ddac171"	""	""	""	""	"PMC10365844"	""	""	""	""	""	""	"35899434"	""	""	"Child
+Humans
+Child, Preschool
+Infant, Newborn
+Infant
+*DNA Methylation
+Longitudinal Studies
+Socioeconomic Factors
+*Genome
+Epigenome
+Epigenesis, Genetic"	"Childhood socioeconomic position (SEP) is a major determinant of health and well-being across the entire life course. To effectively prevent and reduce health risks related to SEP, it is critical to better understand when and under what circumstances socioeconomic adversity shapes biological processes. DNA methylation (DNAm) is one such mechanism for how early life adversity 'gets under the skin'. In this study, we evaluated the dynamic relationship between SEP and DNAm across childhood using data from 946 mother-child pairs in the Avon Longitudinal Study of Parents and Children. We assessed six SEP indicators spanning financial, occupational and residential domains during very early childhood (ages 0-2), early childhood (ages 3-5) and middle childhood (ages 6-7). Epigenome-wide DNAm was measured at 412 956 cytosine-guanines (CpGs) from peripheral blood at age 7. Using an innovative two-stage structured life-course modeling approach, we tested three life-course hypotheses for how SEP shapes DNAm profiles-accumulation, sensitive period and mobility. We showed that changes in the socioeconomic environment were associated with the greatest differences in DNAm, and that middle childhood may be a potential sensitive period when socioeconomic instability is especially important in shaping DNAm. Top SEP-related DNAm CpGs were overrepresented in genes involved in pathways important for neural development, immune function and metabolic processes. Our findings highlight the importance of socioeconomic stability during childhood and if replicated, may emphasize the need for public programs to help children and families experiencing socioeconomic instability and other forms of socioeconomic adversity."	"1460-2083
+Liu, Jiaxuan
+Orcid: 0000-0002-8955-5832
+Cerutti, Janine
+Lussier, Alexandre A
+Zhu, Yiwen
+Smith, Brooke J
+Smith, Andrew D A C
+Dunn, Erin C
+Orcid: 0000-0003-1413-3229
+BB/I025263/1/BB_/Biotechnology and Biological Sciences Research Council/United Kingdom
+WT_/Wellcome Trust/United Kingdom
+MC_PC_19009/MRC_/Medical Research Council/United Kingdom
+MC_UU_00032/4/MRC_/Medical Research Council/United Kingdom
+217065/Z/19/Z/WT_/Wellcome Trust/United Kingdom
+BBI025751/1/BB_/Biotechnology and Biological Sciences Research Council/United Kingdom
+MC_PC_15018/MRC_/Medical Research Council/United Kingdom
+MC_UU_00011/5/MRC_/Medical Research Council/United Kingdom
+R01 MH113930/MH/NIMH NIH HHS/United States
+G9815508/MRC_/Medical Research Council/United Kingdom
+MC_UU_12013/2/MRC_/Medical Research Council/United Kingdom
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+England
+2022/07/29
+Hum Mol Genet. 2023 Feb 19;32(5):709-719. doi: 10.1093/hmg/ddac171."	""	"https://pmc.ncbi.nlm.nih.gov/articles/PMC10365844/"	""	"Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA 02114, USA.
+Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA 02115, USA.
+Department of Psychiatry, Harvard Medical School, Boston, MA 02115, USA.
+Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA.
+Mathematics and Statistics Research Group, University of the West of England, Bristol BS8 1QU, UK.
+Harvard Center on the Developing Child, Harvard University, Cambridge, MA 02138, USA."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"S. H. Chu; E. B. Loucks; K. T. Kelsey; S. E. Gilman; G. Agha; C. B. Eaton; S. L. Buka; Y. T. Huang"	"2018"	"Sex-specific epigenetic mediators between early life social disadvantage and adulthood BMI"	""	"Epigenomics"	""	""	"10"	""	"6"	"707-722"	""	""	""	"20180611"	"Jun"	""	""	"Sex-specific epigenetic mediators between early life social disadvantage and adulthood BMI"	""	"1750-1911 (Print)
+1750-192x"	"10.2217/epi-2017-0146"	""	""	""	"Financial & competing interests disclosure This work was supported by the National Institute on Aging at the NIH (grant numbers RC2AG036666, R01AG048825), the Intramural Research Program of the Eunice Kennedy Shriver National Institute of Child Health and Human Development, and the Ministry of Science and Technology, Taiwan (grant number 105-2118-M-001-014-MY3). The authors have no other relevant affiliations or financial involvement with any organization or entity with a financial interest in or financial conflict with the subject matter or materials discussed in the manuscript apart from those disclosed. No writing assistance was utilized in the production of this manuscript."	"PMC6367732"	""	""	""	""	""	""	"29888956"	""	""	"Adipose Tissue/metabolism
+*Body Mass Index
+Child
+CpG Islands
+DNA Methylation
+*Epigenesis, Genetic
+Female
+Humans
+Male
+Middle Aged
+*Sex Characteristics
+*Vulnerable Populations
+Bmi
+adipose tissue
+adiposity
+childhood adversity
+epigenetics
+social disadvantage
+social epidemiology"	"AIM: The objective of this study was to identify potential epigenetic mediating pathways linking early life social disadvantage (ELSD) to adulthood BMI. METHODS: Sex-specific epigenome-wide two-stage mediation analyses were conducted in blood and adipose tissue, and mediation estimates were obtained using cross-product mediation analysis. Pathway analyses were conducted using GREAT software (Bejerano Lab, CA, USA). RESULTS: Candidate mediation CpG sites were identified in adipose tissue, but not blood, and were sex-specific. Significant mediation sites in females included CpG loci in genes: PKHG1, BCAR3, ADAM5P, PIEZO1, FGFRL1, FASN and DPP9, among others. Pathway analyses revealed evidence of enrichment for processes associated with TFG-β signaling and immunologic signatures. In males, significant mediation loci included sites in MAP3K5 and RPTOR, which have previously been associated with adipogenesis, inflammation and insulin resistance. CONCLUSION: Our findings provide supportive evidence for the mediating role of epigenetic mechanisms in the effect of early life social disadvantage on adulthood BMI."	"1750-192x
+Chu, Su H
+Loucks, Eric B
+Kelsey, Karl T
+Gilman, Stephen E
+Agha, Golareh
+Eaton, Charles B
+Buka, Stephen L
+Huang, Yen-Tsung
+P2C HD041020/HD/NICHD NIH HHS/United States
+R01 AG048825/AG/NIA NIH HHS/United States
+RC2 AG036666/AG/NIA NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, N.I.H., Intramural
+Research Support, Non-U.S. Gov't
+England
+2018/06/12
+Epigenomics. 2018 Jun;10(6):707-722. doi: 10.2217/epi-2017-0146. Epub 2018 Jun 11."	""	"https://pmc.ncbi.nlm.nih.gov/articles/PMC6367732/"	""	"Department of Epidemiology, Brown School of Public Health, Providence, RI, 02912, USA.
+Channing Division of Network Medicine, Brigham & Women's Hospital & Harvard Medical School, Boston, MA, 02115, USA.
+Department of Pathology & Laboratory Medicine, Brown University Warren Alpert Medical School, Providence, RI, 02912, USA.
+Health Behavior Branch, Division of Intramural Population Health Research, Eunice Kennedy Shriver National Institute of Child Health & Human Development, Bethesda, MD, 20892, USA.
+Department of Social & Behavioral Sciences, Harvard TH Chan School of Public Health, Boston, MA, 02115, USA.
+Department of Epidemiology, Harvard TH Chan School of Public Health, Boston, MA, 02115, USA.
+Department of Mental Health, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, 21205, USA.
+Columbia Aging Center, Mailman School of Public Health, Columbia University, New York, NY, 10032, USA.
+Department of Family Medicine, Brown University Warren Alpert Medical School, Providence, RI, 02912, USA.
+Department of Biostatistics, Brown School of Public Health, Providence, RI, 02912, USA.
+Institute of Statistical Science, Academia Sinica, Taipei, 11529,  Taiwan."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"E. C. Dunn; T. W. Soare; Y. Zhu; A. J. Simpkin; M. J. Suderman; T. Klengel; A. Smith; K. J. Ressler; C. L. Relton"	"2019"	"Sensitive Periods for the Effect of Childhood Adversity on DNA Methylation: Results From a Prospective, Longitudinal Study"	""	"Biol Psychiatry"	""	""	"85"	""	"10"	"838-849"	""	""	""	"20190121"	"May 15"	""	""	"Sensitive Periods for the Effect of Childhood Adversity on DNA Methylation: Results From a Prospective, Longitudinal Study"	""	"0006-3223 (Print)
+0006-3223"	"10.1016/j.biopsych.2018.12.023"	""	""	""	"Conflicts of Interest: All authors report no biomedical financial interests or potential conflicts of interest."	"PMC6552666"	""	""	""	"NIHMS1525159"	""	""	"30905381"	""	""	"*Adverse Childhood Experiences
+Child
+Child, Preschool
+CpG Islands
+DNA Methylation/*physiology
+Epigenesis, Genetic/*physiology
+Epigenome
+Female
+Humans
+Infant
+Longitudinal Studies
+Male
+Parent-Child Relations
+Prospective Studies
+Time Factors
+Childhood adversity
+Children
+DNA methylation
+Epigenetics
+Longitudinal
+Sensitive periods"	"BACKGROUND: Exposure to early-life adversity is known to predict DNA methylation (DNAm) patterns that may be related to psychiatric risk. However, few studies have investigated whether adversity has time-dependent effects based on the age at exposure. METHODS: Using a two-stage structured life course modeling approach, we tested the hypothesis that there are sensitive periods when adversity induces greater DNAm changes. We tested this hypothesis in relation to two alternatives: an accumulation hypothesis, in which the effect of adversity increases with the number of occasions exposed, regardless of timing; and a recency model, in which the effect of adversity is stronger for more proximal events. Data came from the Accessible Resource for Integrated Epigenomic Studies, a subsample of mother-child pairs from the Avon Longitudinal Study of Parents and Children (n = 691-774). RESULTS: After covariate adjustment and multiple testing correction, we identified 38 CpG sites that were differentially methylated at 7 years of age following exposure to adversity. Most loci (n = 35) were predicted by the timing of adversity, namely exposures before 3 years of age. Neither the accumulation nor recency of the adversity explained considerable variability in DNAm. A standard epigenome-wide association study of lifetime exposure (vs. no exposure) failed to detect these associations. CONCLUSIONS: The developmental timing of adversity explains more variability in DNAm than the accumulation or recency of exposure. Very early childhood appears to be a sensitive period when exposure to adversity predicts differential DNAm patterns. Classification of individuals as exposed versus unexposed to early-life adversity may dilute observed effects."	"1873-2402
+Dunn, Erin C
+Soare, Thomas W
+Zhu, Yiwen
+Simpkin, Andrew J
+Suderman, Matthew J
+Klengel, Torsten
+Smith, Andrew D A C
+Ressler, Kerry J
+Relton, Caroline L
+MC_PC_19009/MRC_/Medical Research Council/United Kingdom
+MC_UU_12013/8/MRC_/Medical Research Council/United Kingdom
+MC_PC_15018/MRC_/Medical Research Council/United Kingdom
+K01 MH102403/MH/NIMH NIH HHS/United States
+UL1 TR001102/TR/NCATS NIH HHS/United States
+WT_/Wellcome Trust/United Kingdom
+BB/I025263/1/BB_/Biotechnology and Biological Sciences Research Council/United Kingdom
+102215/2/13/2/WT_/Wellcome Trust/United Kingdom
+MC_UU_00011/5/MRC_/Medical Research Council/United Kingdom
+BBI025751/1/BB_/Biotechnology and Biological Sciences Research Council/United Kingdom
+R01 MH113930/MH/NIMH NIH HHS/United States
+G9815508/MRC_/Medical Research Council/United Kingdom
+MC_UU_12013/2/MRC_/Medical Research Council/United Kingdom
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+2019/03/25
+Biol Psychiatry. 2019 May 15;85(10):838-849. doi: 10.1016/j.biopsych.2018.12.023. Epub 2019 Jan 21."	""	"https://pmc.ncbi.nlm.nih.gov/articles/PMC6552666/"	""	"Center for Genomic Medicine, Massachusetts General Hospital, Boston, Massachusetts; Department of Psychiatry, Harvard Medical School, Boston, Massachusetts; Stanley Center for Psychiatric Research, The Broad Institute of Harvard University and Massachusetts Institute of Technology, Cambridge, Massachusetts. Electronic address: edunn@mgh.harvard.edu.
+Center for Genomic Medicine, Massachusetts General Hospital, Boston, Massachusetts; Department of Psychiatry, Harvard Medical School, Boston, Massachusetts; Stanley Center for Psychiatric Research, The Broad Institute of Harvard University and Massachusetts Institute of Technology, Cambridge, Massachusetts.
+Center for Genomic Medicine, Massachusetts General Hospital, Boston, Massachusetts.
+Medical Research Council Integrative Epidemiology Unit, School of Social and Community Medicine, University of Bristol, Bristol, United Kingdom.
+Department of Psychiatry, Harvard Medical School, Boston, Massachusetts; Department of Psychiatry, McLean Hospital, Harvard Medical School, Belmont, Massachusetts; Department of Psychiatry and Psychotherapy, University Medical Center Gottingen, Germany.
+Applied Statistics Group, University of the West of England, Bristol, United Kingdom.
+Department of Psychiatry, Harvard Medical School, Boston, Massachusetts; Department of Psychiatry, McLean Hospital, Harvard Medical School, Belmont, Massachusetts.
+Medical Research Council Integrative Epidemiology Unit, School of Social and Community Medicine, University of Bristol, Bristol, United Kingdom; Institute of Genetic Medicine, University of Newcastle, Newcastle upon Tyne, United Kingdom."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"Z. Marinova; A. Maercker; E. Grünblatt; T. K. Wojdacz; S. Walitza"	"2017"	"A pilot investigation on DNA methylation modifications associated with complex posttraumatic symptoms in elderly traumatized in childhood"	""	"BMC Res Notes"	""	""	"10"	""	"1"	"752"	""	""	""	"20171219"	"Dec 19"	""	""	"A pilot investigation on DNA methylation modifications associated with complex posttraumatic symptoms in elderly traumatized in childhood"	""	"1756-0500"	"10.1186/s13104-017-3082-y"	""	""	""	""	"PMC5738217"	""	""	""	""	""	""	"29258561"	""	""	"Aged
+Child
+Child Abuse/psychology
+Child, Preschool
+CpG Islands/*genetics
+*DNA Methylation
+Female
+Genome, Human/*genetics
+Humans
+Male
+Molecular Chaperones/genetics
+Nerve Tissue Proteins/genetics
+Nuclear Pore Complex Proteins/genetics
+Pilot Projects
+Proteasome Endopeptidase Complex/genetics
+Stress Disorders, Post-Traumatic/*genetics/psychology
+Childhood trauma
+Complex posttraumatic stress disorder
+DNA methylation
+Epigenetic modifications"	"OBJECTIVE: Complex posttraumatic stress disorder (CPTSD) is a newly proposed diagnosis in the International Classification of Diseases-version 11, which is currently intensively investigated. Childhood trauma is regarded as main source of CPTSD symptoms, even in later life. Induction of DNA methylation changes by childhood trauma may contribute to its long-lasting adverse health consequences. The current study analyzed the correlation of genome-wide DNA methylation profiles with complex posttraumatic sequelae in buccal epithelial cells from 31 elderly former indentured child laborers (Verdingkinder) using the Infinium Illumina 450k Human DNA methylation chip. RESULTS: DNA methylation modifications indicated experiment-wide significant associations with the following complex posttraumatic symptom domains: dissociation, tension reduction behavior and dysfunctional sexual behavior. Differentially methylated CpG sites were mapped to the genes huntington associated protein 1 (HAP1), RAN binding protein 2 (RANBP2) and proteasome subunit alpha 4 (PSMA4), respectively. In addition, the methylation of cg07225277 located in carnosine synthase 1 (CARNS1) correlated with trauma symptom complexity. Our pilot data suggest correlation of DNA methylation modifications with complex posttraumatic symptoms in elderly individuals subjected to prolonged and complex childhood trauma. More comprehensive and elaborated studies should be carried out to analyze epigenetic modifications associated with CPTSD."	"1756-0500
+Marinova, Zoya
+Maercker, Andreas
+Grünblatt, Edna
+Wojdacz, Tomasz K
+Walitza, Susanne
+Journal Article
+England
+2017/12/21
+BMC Res Notes. 2017 Dec 19;10(1):752. doi: 10.1186/s13104-017-3082-y."	""	"https://pmc.ncbi.nlm.nih.gov/articles/PMC5738217/"	""	"Department of Child and Adolescent Psychiatry and Psychotherapy, Psychiatric Hospital, University of Zurich, Zurich, Switzerland.
+Department of Psychology, Division of Psychopathology and Clinical Intervention, University of Zurich, Binzmühlerstrasse 14/17, Raum BIN 3 E 14, 8050, Zurich, Switzerland. maercker@psychologie.uzh.ch.
+Aarhus Institute of Advanced Studies, University of Aarhus, Aarhus, Denmark."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"L. Frach; S. Tierling; M. Schwaiger; D. Moser; M. Heinrichs; J. G. Hengstler; J. Walter; R. Kumsta"	"2020"	"The mediating role of KITLG DNA methylation in the association between childhood adversity and cortisol stress reactivity does not replicate in monocytes"	""	"Psychoneuroendocrinology"	""	""	"116"	""	""	"104653"	""	""	""	"20200320"	"Jun"	""	""	"The mediating role of KITLG DNA methylation in the association between childhood adversity and cortisol stress reactivity does not replicate in monocytes"	""	"0306-4530"	"10.1016/j.psyneuen.2020.104653"	""	""	""	""	""	""	""	""	""	""	""	"32203862"	""	""	"Adult
+*Adverse Childhood Experiences
+Aged
+DNA Methylation/*physiology
+Epigenesis, Genetic/physiology
+Female
+Humans
+Hydrocortisone/*metabolism
+Male
+Middle Aged
+Monocytes/*metabolism
+Stem Cell Factor/genetics/*metabolism
+Stress, Psychological/*metabolism
+Childhood adversity
+DNA methylation
+Ewas
+Replication
+Stress
+Tsst"	"Adverse childhood experiences such as maltreatment or neglect are associated with mental health problems in adulthood. Changes in the regulation of the psychological and physiological stress reaction, mediated via epigenetic modifications, are discussed as potential mechanisms. This study aimed to replicate the role of DNA methylation of the KITLG gene in mediating the association between childhood adversity and stress-induced cortisol reactivity in a sample of adults reporting childhood adversity and a matched control group (N = 60). DNA was extracted from purified CD14(+) monocytes and genome-wide DNA methylation was assessed with the 450k BeadChip for targeted replication and exploratory analyses. As previously reported, childhood adversity was associated with significantly lower cortisol reactivity to stress. We could neither replicate the association between KITLG DNA methylation and cortisol stress reactivity nor the association with childhood adversity. Moreover, DNA methylation of the target CpG (cg27512205) was not associated with KITLG mRNA expression in monocytes. Exploratory analyses of array-wide DNA methylation patterns showed no significant results for individual sites after correction for multiple testing - neither in association with childhood trauma nor with adult cortisol stress reactivity. The analysis of differentially methylated regions (DMRs) revealed two significant regions which both mapped to non-coding genes in the association with cortisol stress reactivity. The mediating role of DNA methylation of the KITLG locus in the association between childhood adversity and cortisol stress reactivity could not be replicated in monocytes. In addition to differences in investigated tissue, reasons for non-replication might include differences between samples in age, ethnicity, trauma severity, and cortisol reactivity."	"1873-3360
+Frach, Leonard
+Tierling, Sascha
+Schwaiger, Marion
+Moser, Dirk
+Heinrichs, Markus
+Hengstler, Jan G
+Walter, Jörn
+Kumsta, Robert
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2020/03/24
+Psychoneuroendocrinology. 2020 Jun;116:104653. doi: 10.1016/j.psyneuen.2020.104653. Epub 2020 Mar 20."	""	"https://www.sciencedirect.com/science/article/abs/pii/S030645302030072X?via%3Dihub"	""	"Department of Genetic Psychology, Faculty of Psychology, Ruhr University Bochum, Bochum, Germany.
+Department of Genetics/ Epigenetics, Saarland University, Saarbrücken, Germany.
+Department of Psychology, Laboratory for Biological and Personality Psychology, University of Freiburg, Freiburg, Germany; Freiburg Brain Imaging Center, University Medical Center, University of Freiburg, Freiburg, Germany.
+Leibniz Research Centre for Working Environment and Human Factors at the Technical University of Dortmund (IfADo), Dortmund, Germany.
+Department of Genetic Psychology, Faculty of Psychology, Ruhr University Bochum, Bochum, Germany. Electronic address: robert.kumsta@rub.de."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"I. León; D. Góngora; M. J. Rodrigo; S. Herrero-Roldán; M. López Rodríguez; C. Mitchell; J. Fisher; Y. Iturria-Medina"	"2025"	"Maternal epigenetic index links early neglect to later neglectful care and other psychopathological, cognitive, and bonding effects"	""	"Clin Epigenetics"	""	""	"17"	""	"1"	"46"	""	""	""	"20250308"	"Mar 8"	""	""	"Maternal epigenetic index links early neglect to later neglectful care and other psychopathological, cognitive, and bonding effects"	""	"1868-7075 (Print)
+1868-7075"	"10.1186/s13148-025-01839-7"	""	""	""	"Declarations. Ethical Approval: The study was conducted according to the guidelines of the Declaration of Helsinki and approved by the protocol of the Ethical Committee of Investigation of the Canary Islands University Hospital Complex (code: CHUC_2018_63; date of approval: 14 December 2018). Competing Interests: The authors declare no competing interests."	"PMC11890505"	""	""	""	""	""	""	"40057810"	""	""	"Humans
+Female
+*DNA Methylation
+*Epigenesis, Genetic
+Adult
+*Child Abuse/psychology
+Mother-Child Relations/psychology
+*Mothers/psychology
+Male
+Saliva/chemistry
+Genome-Wide Association Study/methods
+Child
+*Adult Survivors of Child Abuse/psychology
+Child, Preschool
+Cognition
+Object Attachment
+Childhood trauma
+DNA methylation
+Emotional availability
+Machine learning
+Neglectful parenting"	"BACKGROUND: Past experiences of maltreatment and life adversity induce DNA methylation changes in adults, but less is known about their impact on mothers' maladaptive neglectful parenting and its negative effects. We performed an epigenome-wide association study to investigate the role of DNA methylation levels in mothers with neglectful care, who were exposed to childhood maltreatment and neglect, and their current negative effects. Saliva DNA methylation was determined with the Illumina Human Methylation EPIC BeadChip v1. The individual epigenome was the input to a machine learning algorithm for trajectory inference, which assigned a specific state to each mother in the progression from healthy controls to the extreme neglect condition. A compound epigenetic maternal neglect score (EMN) was derived from 138 mothers (n = 51 in the neglectful group; n = 87 in the control non-neglectful group) having young children. Differential methylation between groups was utilized to derive the EMNs adjusted for education level, age, experimental variables, and blood cell types in saliva samples. RESULTS: Structural equation modeling: X(2) (29) = 37.81; p = 0.127; RMSEA = 0.048, confirmed that EMNs link their early experience of physical neglect to current reports of psychopathological symptoms, lower cognitive status, and observed poor mother-child emotional availability. A third of the genes annotated to the CpGs that affect EMNs are related to cognitive impairment and neurodegenerative and psychopathological disorders. CONCLUSIONS: EMNs are a novel index to assess the contribution of DNA methylations as a neglected girl to later neglectful caregiving behavior and other negative effects. The evidence provided expands the possibilities for earlier interventions on the neglect condition to prevent and ameliorate the direct or indirect epigenetic impact of maternal adversities on mother-child care, helping to break the cycle of maltreatment."	"1868-7083
+León, Inmaculada
+Góngora, Daylín
+Rodrigo, María José
+Herrero-Roldán, Silvia
+López Rodríguez, Maykel
+Mitchell, Colter
+Fisher, Jonah
+Iturria-Medina, Yasser
+R01 MD011716/MD/NIMHD NIH HHS/United States
+RTI 2018-098149-B-100/Spanish Ministry of Economy and Competitiveness and the European Regional Development/
+Journal Article
+Germany
+2025/03/09
+Clin Epigenetics. 2025 Mar 8;17(1):46. doi: 10.1186/s13148-025-01839-7."	""	"https://pmc.ncbi.nlm.nih.gov/articles/PMC11890505/"	""	"Instituto Universitario de Neurociencia, Universidad de La Laguna, Campus de Guajara, 38201, San Cristóbal de La Laguna, Spain.
+Facultad de Psicología, Universidad de La Laguna, San Cristóbal de La Laguna, Spain.
+Department of Microeconomics and Public Economics, Maastricht University School of Business and Economics, Maastricht University - Center of Neuroeconomics, Maastricht, The Netherlands.
+Faculty of Psychology and Neuroscience, Maastricht University, Maastricht, The Netherlands.
+Instituto Universitario de Neurociencia, Universidad de La Laguna, Campus de Guajara, 38201, San Cristóbal de La Laguna, Spain. silvia.herrero@universidadunie.com.
+Facultad de Ciencias Sociales Aplicadas y de La Comunicación, UNIE Universidad, Madrid, Spain. silvia.herrero@universidadunie.com.
+Department of Pathology and Laboratory Medicine at the David Geffen School of Medicine, UCLA, Los Angeles, USA.
+Institute for Social Research, University of Michigan, Ann Arbor, MI, USA.
+Neurology and Neurosurgery Department, Montreal Neurological Institute, Montreal, Canada.
+McConnell Brain Imaging Centre, Montreal Neurological Institute, Montreal, Canada.
+Ludmer Centre for Neuroinformatics and Mental Health, Montreal, Canada."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"T. Mayanagi; J. Yagi; H. Ohmomo; M. Akasaka; K. Fukumoto; S. Chiba; S. Komaki; A. Shimizu; T. Yanbe; M. Uchide; Y. Yoshioka; K. Ogawa; C. Ishikawa; S. Minabe; J. Ito; K. Ono; N. Kaneko; K. Sobue"	"2026"	"Inter-individual differentially methylated region-targeted EWAS reveals epigenetic signatures of early childhood adversity"	""	"Epigenomics"	""	""	"18"	""	"1"	"89-100"	""	""	""	"20260107"	"Jan"	""	""	"Inter-individual differentially methylated region-targeted EWAS reveals epigenetic signatures of early childhood adversity"	""	"1750-1911 (Print)
+1750-192x"	"10.1080/17501911.2026.2613008"	""	""	""	"The authors have no relevant affiliations or financial involvement with any organization or entity with a financial interest in or financial conflict with the subject matter or materials discussed in the manuscript. This includes employment, consultancies, honoraria, stock ownership or options, expert testimony, grants or patents received or pending, or royalties. English editing was provided by Editage (www.editage.jp)."	"PMC12826735"	""	""	""	""	""	""	"41504111"	""	""	"Humans
+*DNA Methylation
+Child
+*Epigenesis, Genetic
+*Adverse Childhood Experiences
+Female
+Male
+CpG Islands
+Genome-Wide Association Study
+DNA methylation
+adverse childhood experience
+epigenome-wide association study
+inter-individual differentially methylated region
+saliva DNA"	"AIMS: Adverse childhood experiences (ACEs), especially in early life, can affect psychosocial development and increase lifelong risk for mental disorders. ACEs are also known to induce persistent epigenetic changes. This study aimed to explore ACE-associated DNA methylation signatures using an epigenome-wide association study (EWAS) targeting inter-individual differentially methylated regions (DMRs). METHODS: We developed a targeted capture probe system covering ~1.3 million CpG sites within inter-individual DMRs. This system was applied to salivary DNA from drug-naïve children aged 6-12 years with exposure to multiple early-life ACEs (n = 23) or who had no ACEs (n = 21). RESULTS: We identified 15 novel DMRs significantly associated with ACEs. A cluster of six CpG sites within an exon of the EIF4G2 gene showed consistently increased methylation in children with ACEs, with strong inter-site correlations. Enrichment analysis indicated that genes near these DMRs are involved in neurodevelopmental disorders, suggesting that early adversity may influence brain development through epigenetic mechanisms. CONCLUSION: Our findings suggest that early adversity may contribute to lasting epigenetic modifications in children. The identified DMRs may serve as noninvasive biomarkers for retrospective ACE assessment and provide insights into the biological embedding of early-life stress.
+Children who have hard experiences early in life – like abuse, neglect, or stress – may be more likely to have problems with their mental health later. These experiences can leave lasting effects on the body. One way this happens is through DNA methylation, a process that can switch genes on or off without changing the DNA itself. In our study, we looked at saliva from children aged 6 to 12. We found 15 places in the DNA where children who had stressful experiences were different from those who did not. One important gene, EIF4G2, showed higher methylation in children with early stress. Other differences were near genes important for brain development. This shows that early stress can leave biological marks. In the future, these marks may help us understand how stress affects children and identify those who might need extra support.
+eng"	"1750-192x
+Mayanagi, Taira
+Orcid: 0000-0002-7984-186x
+Yagi, Junko
+Ohmomo, Hideki
+Orcid: 0000-0002-3524-6524
+Akasaka, Manami
+Fukumoto, Kentaro
+Orcid: 0000-0002-7827-4146
+Chiba, Shusaku
+Komaki, Shohei
+Orcid: 0000-0002-0486-3239
+Shimizu, Atsushi
+Orcid: 0000-0001-8307-2461
+Yanbe, Takehito
+Uchide, Mare
+Yoshioka, Yasuhito
+Ogawa, Kaori
+Ishikawa, Chiho
+Minabe, Shiori
+Orcid: 0000-0001-7902-925x
+Ito, Jun
+Ono, Kanako
+Kaneko, Nozomi
+Sobue, Kenji
+Journal Article
+England
+2026/01/08
+Epigenomics. 2026 Jan;18(1):89-100. doi: 10.1080/17501911.2026.2613008. Epub 2026 Jan 7."	""	"https://pmc.ncbi.nlm.nih.gov/articles/PMC12826735/"	""	"Department of Neuroscience, Institute for Biomedical Sciences, Iwate Medical University, Yahaba, Japan.
+Department of Neuropsychiatry, School of Medicine, Iwate Medical University, Yahaba, Japan.
+Iwate Child Mental Health Care Center, Disaster Reconstruction Center, Iwate Medical University, Yahaba, Japan.
+Division of Biomedical Information Analysis, Institute for Biomedical Sciences, Iwate Medical University, Yahaba, Japan.
+Division of Biomedical Information Analysis, Iwate Tohoku Medical Megabank Organization, Disaster Reconstruction Center, Iwate Medical University, Yahaba, Japan.
+Department of Pediatrics, School of Medicine, Iwate Medical University, Yahaba, Japan.
+Department of Clinical Psychology, Iwate Medical University Hospital, Iwate Medical University, Yahaba, Japan."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"M. J. Arranz; C. Gallego-Fabrega; A. Martín-Blanco; J. Soler; M. Elices; E. Dominguez-Clavé; J. Salazar; D. Vega; L. Briones-Buixassa; J. C. Pascual"	"2021"	"A genome-wide methylation study reveals X chromosome and childhood trauma methylation alterations associated with borderline personality disorder"	""	"Transl Psychiatry"	""	""	"11"	""	"1"	"5"	""	""	""	"20210105"	"Jan 5"	""	""	"A genome-wide methylation study reveals X chromosome and childhood trauma methylation alterations associated with borderline personality disorder"	""	"2158-3188"	"10.1038/s41398-020-01139-z"	""	""	""	"The authors declare that they have no conflict of interest."	"PMC7791113"	""	""	""	""	""	""	"33414392"	""	""	"*Borderline Personality Disorder/genetics
+CpG Islands
+DNA Methylation
+DNA-Binding Proteins
+Epigenesis, Genetic
+Female
+Humans
+Male
+X Chromosome"	"Borderline personality disorder (BPD) is a severe and highly prevalent psychiatric disorder, more common in females than in males and with notable differences in presentation between genders. Recent studies have shown that epigenetic modifications such as DNA methylation may modulate gene × environment interactions and impact on neurodevelopment. We conducted an epigenome wide study (Illumina Infinium HumanMethylation450k beadchip) in a group of BPD patients with (N = 49) and without (N = 47) childhood traumas and in a control group (N = 44). Results were confirmed in a replication cohort (N = 293 BPD patients and N = 114 controls) using EpiTYPER assays. Differentially methylated CpG sites were observed in several genes and intragenic regions in the X chromosome (PQBP1, ZNF41, RPL10, cg07810091 and cg24395855) and in chromosome 6 (TAP2). BPD patients showed significantly lower methylation levels in these CpG sites than healthy controls. These differences seemed to be increased by the existence of childhood trauma. Comparisons between BPD patients with childhood trauma and patients and controls without revealed significant differences in four genes (POU5F1, GGT6, TNFRSF13C and FAM113B), none of them in the X chromosome. Gene set enrichment analyses revealed that epigenetic alterations were more frequently found in genes controlling oestrogen regulation, neurogenesis and cell differentiation. These results suggest that epigenetic alterations in the X chromosome and oestrogen-regulation genes may contribute to the development of BPD and explain the differences in presentation between genders. Furthermore, childhood trauma events may modulate the magnitude of the epigenetic alterations contributing to BPD."	"2158-3188
+Arranz, María J
+Gallego-Fabrega, Cristina
+Orcid: 0000-0003-3229-5512
+Martín-Blanco, Ana
+Soler, Joaquim
+Elices, Matilde
+Dominguez-Clavé, Elisabet
+Salazar, Juliana
+Vega, Daniel
+Briones-Buixassa, Laia
+Pascual, Juan Carlos
+Orcid: 0000-0001-8039-9346
+PI14/00214/Ministry of Economy and Competitiveness | Instituto de Salud Carlos III (Institute of Health Carlos III)/International
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2021/01/09
+Transl Psychiatry. 2021 Jan 5;11(1):5. doi: 10.1038/s41398-020-01139-z."	""	"https://pmc.ncbi.nlm.nih.gov/articles/PMC7791113/"	""	"Fundació Docència i Recerca Mutua Terrassa, Terrassa, Spain.
+Centro de Investigación Biomédica en Red de Salud Mental (CIBERSAM), Institut de Recerca Biomèdica Sant Pau (IIB-Sant Pau), Barcelona, Spain.
+Stroke Pharmacogenomics and Genetics Group, Institut de Recerca Biomèdica Sant Pau (IIB-Sant Pau), Barcelona, Spain.
+Department of Psychiatry, Hospital de la Santa Creu i Sant Pau, Barcelona, Spain.
+Department of Psychiatry and Forensic Medicine & Institute of Neurosciences, Universitat Autònoma de Barcelona, Bellaterra, Spain.
+Translational Medical Oncology Laboratory, Institut de Recerca Biomèdica Sant Pau (IIB-Sant Pau), Bellaterra, Spain.
+Psychiatry and Mental Health Department, Hospital of Igualada, Consorci Sanitari de l'Anoia & Fundació Sanitària d'Igualada, Igualada, Spain.
+Centro de Investigación Biomédica en Red de Salud Mental (CIBERSAM), Institut de Recerca Biomèdica Sant Pau (IIB-Sant Pau), Barcelona, Spain. jpascual@santpau.cat.
+Department of Psychiatry, Hospital de la Santa Creu i Sant Pau, Barcelona, Spain. jpascual@santpau.cat.
+Department of Psychiatry and Forensic Medicine & Institute of Neurosciences, Universitat Autònoma de Barcelona, Bellaterra, Spain. jpascual@santpau.cat."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"A. L. Roberts; N. Gladish; E. Gatev; M. J. Jones; Y. Chen; J. L. MacIsaac; S. S. Tworoger; S. B. Austin; C. Tanrikut; J. E. Chavarro; A. A. Baccarelli; M. S. Kobor"	"2018"	"Exposure to childhood abuse is associated with human sperm DNA methylation"	""	"Transl Psychiatry"	""	""	"8"	""	"1"	"194"	""	""	""	"20181002"	"Oct 2"	""	""	"Exposure to childhood abuse is associated with human sperm DNA methylation"	""	"2158-3188"	"10.1038/s41398-018-0252-1"	""	""	""	"The authors declare no competing interests."	"PMC6168447"	""	""	""	""	""	""	"30279435"	""	""	"Adult
+Child
+*Child Abuse
+CpG Islands
+*DNA Methylation
+*Epigenesis, Genetic
+Humans
+Machine Learning
+Male
+Spermatozoa/*metabolism
+Young Adult"	"Offspring of persons exposed to childhood abuse are at higher risk of neurodevelopmental and physical health disparities across the life course. Animal experiments have indicated that paternal environmental stressors can affect sperm DNA methylation and gene expression in an offspring. Childhood abuse has been associated with epigenetic marks in human blood, saliva, and brain tissue, with statistically significant methylation differences ranging widely. However, no studies have examined the association of childhood abuse with DNA methylation in gametes. We examined the association of childhood abuse with DNA methylation in human sperm. Combined physical, emotional, and sexual abuse in childhood was characterized as none, medium, or high. DNA methylation was assayed in 46 sperm samples from 34 men in a longitudinal non-clinical cohort using HumanMethylation450 BeadChips. We performed principal component analysis and examined the correlation of principal components with abuse exposure. Childhood abuse was associated with a component that captured 6.2% of total variance in DNA methylation (p < 0.05). Next, we investigated the regions differentially methylated by abuse exposure. We identified 12 DNA regions differentially methylated by childhood abuse, containing 64 probes and including sites on genes associated with neuronal function (MAPT, CLU), fat cell regulation (PRDM16), and immune function (SDK1). We examined adulthood health behaviors, mental health, and trauma exposure as potential mediators of an association between abuse and DNAm, and found that mental health and trauma exposure partly mediated the association. Finally, we constructed a parsimonious epigenetic marker for childhood abuse using a machine learning approach, which identified three probes that predicted high vs. no childhood abuse in 71% of participants. Our results suggested that childhood abuse is associated with sperm DNA methylation, which may have implications for offspring development. Larger samples are needed to identify with greater confidence specific genomic regions differentially methylated by childhood abuse."	"2158-3188
+Roberts, Andrea L
+Orcid: 0000-0001-5023-4399
+Gladish, Nicole
+Gatev, Evan
+Jones, Meaghan J
+Orcid: 0000-0003-1593-997x
+Chen, Ying
+MacIsaac, Julia L
+Tworoger, Shelley S
+Austin, S Bryn
+Tanrikut, Cigdem
+Chavarro, Jorge E
+Baccarelli, Andrea A
+Kobor, Michael S
+Orcid: 0000-0003-4140-1743
+R01 HD057368/HD/NICHD NIH HHS/United States
+UM1 CA176726/CA/NCI NIH HHS/United States
+P30 ES009089/ES/NIEHS NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+2018/10/04
+Transl Psychiatry. 2018 Oct 2;8(1):194. doi: 10.1038/s41398-018-0252-1."	""	"https://pmc.ncbi.nlm.nih.gov/articles/PMC6168447/"	""	"Department of Environmental Health, Harvard T.H. Chan School of Public Health, Boston, MA, USA. aroberts@hsph.harvard.edu.
+Department of Medical Genetics, Centre for Molecular Medicine and Therapeutics, and BC Children's Hospital Research Institute, University of British Columbia, Vancouver, BC, Canada.
+Beedie School of Business, Simon Fraser University, Burnaby, BC, Canada.
+Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA.
+Channing Division of Network Medicine, Department of Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, MA, USA.
+Division of Adolescent and Young Adult Medicine, Boston Children's Hospital, Boston, MA, USA.
+Department of Urology, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA.
+Department of Nutrition, Harvard T.H. Chan School of Public Health, Boston, MA, USA.
+Laboratory of Environmental Precision Biosciences, Mailman School of Public Health, Columbia University, New York, NY, USA.
+Human Early Learning Partnership, School of Population and Public Health, University of British Columbia, Vancouver, BC, Canada."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"L. Alameda; Z. Liu; P. C. Sham; M. Aas; G. Trotta; V. Rodriguez; M. Di Forti; S. A. Stilo; R. Kandaswamy; C. Arango; M. Arrojo; M. Bernardo; J. Bobes; L. de Haan; C. M. Del-Ben; C. Gayer-Anderson; L. Sideli; P. B. Jones; H. E. Jongsma; J. B. Kirkbride; C. La Cascia; A. Lasalvia; S. Tosato; P. M. Llorca; P. R. Menezes; J. van Os; D. Quattrone; B. P. Rutten; J. L. Santos; J. Sanjuán; J. P. Selten; A. Szöke; I. Tarricone; A. Tortelli; E. Velthorst; C. Morgan; E. Dempster; E. Hannon; J. Burrage; D. Dwir; A. Arumuham; J. Mill; R. M. Murray; C. C. Y. Wong"	"2023"	"Exploring the mediation of DNA methylation across the epigenome between childhood adversity and First Episode of Psychosis-findings from the EU-GEI study"	""	"Mol Psychiatry"	""	""	"28"	""	"5"	"2095-2106"	""	""	""	"20230417"	"May"	""	""	"Exploring the mediation of DNA methylation across the epigenome between childhood adversity and First Episode of Psychosis-findings from the EU-GEI study"	""	"1359-4184"	"10.1038/s41380-023-02044-9"	""	""	""	""	""	""	""	""	""	""	""	"37062770"	""	""	"Humans
+Child
+DNA Methylation/genetics
+Epigenome
+*Adverse Childhood Experiences
+*Psychotic Disorders/genetics
+*Psychological Tests
+*Self Report"	"Studies conducted in psychotic disorders have shown that DNA-methylation (DNAm) is sensitive to the impact of Childhood Adversity (CA). However, whether it mediates the association between CA and psychosis is yet to be explored. Epigenome wide association studies (EWAS) using the Illumina Infinium-Methylation EPIC array in peripheral blood tissue from 366 First-episode of psychosis and 517 healthy controls was performed. Adversity scores were created for abuse, neglect and composite adversity with the Childhood Trauma Questionnaire (CTQ). Regressions examining (I) CTQ scores with psychosis; (II) with DNAm EWAS level and (III) between DNAm and caseness, adjusted for a variety of confounders were conducted. Divide-Aggregate Composite-null Test for the composite null-hypothesis of no mediation effect was conducted. Enrichment analyses were conducted with missMethyl package and the KEGG database. Our results show that CA was associated with psychosis (Composite: OR = 1.68; p = <0.001; abuse: OR = 2.16; p < 0.001; neglect: OR = 2.27; p = <0.001). None of the CpG sites significantly mediated the adversity-psychosis association after Bonferroni correction (p < 8.1 × 10(-8)). However, 28, 34 and 29 differentially methylated probes associated with 21, 27, 20 genes passed a less stringent discovery threshold (p < 5 × 10(-5)) for composite, abuse and neglect respectively, with a lack of overlap between abuse and neglect. These included genes previously associated to psychosis in EWAS studies, such as PANK1, SPEG TBKBP1, TSNARE1 or H2R. Downstream gene ontology analyses did not reveal any biological pathways that survived false discovery rate correction. Although at a non-significant level, DNAm changes in genes previously associated with schizophrenia in EWAS studies may mediate the CA-psychosis association. These results and associated involved processes such as mitochondrial or histaminergic disfunction, immunity or neural signalling requires replication in well powered samples. The lack of overlap between mediating genes associated with abuse and neglect suggests differential biological trajectories linking CA subtypes and psychosis."	"1476-5578
+Alameda, Luis
+Orcid: 0000-0002-8621-2885
+Liu, Zhonghua
+Orcid: 0000-0003-3048-9823
+Sham, Pak C
+Aas, Monica
+Trotta, Giulia
+Rodriguez, Victoria
+Di Forti, Marta
+Stilo, Simona A
+Kandaswamy, Radhika
+Arango, Celso
+Orcid: 0000-0003-3382-4754
+Arrojo, Manuel
+Bernardo, Miguel
+Orcid: 0000-0001-8748-6717
+Bobes, Julio
+Orcid: 0000-0003-2187-4033
+de Haan, Lieuwe
+Del-Ben, Cristina Marta
+Orcid: 0000-0003-0145-9975
+Gayer-Anderson, Charlotte
+Sideli, Lucia
+Jones, Peter B
+Orcid: 0000-0002-0387-880x
+Jongsma, Hannah E
+Kirkbride, James B
+Orcid: 0000-0003-3401-0824
+La Cascia, Caterina
+Lasalvia, Antonio
+Tosato, Sarah
+Orcid: 0000-0002-9665-7538
+Llorca, Pierre-Michel
+Orcid: 0000-0001-7438-8990
+Menezes, Paulo Rossi
+Orcid: 0000-0001-6330-3314
+van Os, Jim
+Orcid: 0000-0002-7245-1586
+Quattrone, Diego
+Rutten, Bart P
+Orcid: 0000-0002-9834-6346
+Santos, Jose Luis
+Sanjuán, Julio
+Selten, Jean-Paul
+Szöke, Andrei
+Tarricone, Ilaria
+Orcid: 0000-0002-5786-2520
+Tortelli, Andrea
+Velthorst, Eva
+Orcid: 0000-0002-9240-2909
+Morgan, Craig
+Dempster, Emma
+Orcid: 0000-0003-1257-5314
+Hannon, Eilis
+Orcid: 0000-0001-6840-072x
+Burrage, Joe
+Dwir, Daniella
+Orcid: 0000-0003-4931-9007
+Arumuham, Atheeshaan
+Mill, Jonathan
+Orcid: 0000-0003-1115-3224
+Murray, Robin M
+Orcid: 0000-0003-0829-0519
+Wong, Chloe C Y
+MR/M008924/1/MRC_/Medical Research Council/United Kingdom
+MR/R005176/1/MRC_/Medical Research Council/United Kingdom
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2023/04/17
+Mol Psychiatry. 2023 May;28(5):2095-2106. doi: 10.1038/s41380-023-02044-9. Epub 2023 Apr 17."	""	""	""	"Service of General Psychiatry, Treatment and Early Intervention in Psychosis Program, Lausanne University Hospital (CHUV), Lausanne, Switzerland. laluisalameda@gmail.com.
+Psychosis Studies, Institute of Psychiatry, Psychology and Neuroscience. King's College of London, London, UK. laluisalameda@gmail.com.
+Instituto de Investigación Sanitaria de Sevilla, IbiS, Hospital Universitario Virgen del Rocío, Department of Psychiatry, Universidad de Sevilla, Seville, Spain. laluisalameda@gmail.com.
+Department of Biostatistics, Columbia University, New York, NY, USA.
+Department of Psychiatry, State Key Laboratory of Brain and Cognitive Sciences, and Centre for PanorOmic Sciences, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Pok Fu Lam, Hong Kong.
+Social, Genetics and Developmental Psychiatry Centre, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, UK.
+Psychosis Studies, Institute of Psychiatry, Psychology and Neuroscience. King's College of London, London, UK.
+Department of Mental Health and Addiction Services, ASP Crotone, Crotone, Italy.
+Department of Child and Adolescent Psychiatry, Institute of Psychiatry and Mental Health, Hospital General Universitario Gregorio Marañón, School of Medicine, Universidad Complutense, IiSGM, CIBERSAM, Madrid, Spain.
+Department of Psychiatry, Psychiatric Genetic Group, Instituto de Investigación Sanitaria de Santiago de Compostela, Complejo Hospitalario Universitario de Santiago de Compostela, Santiago, Spain.
+Barcelona Clinic Schizophrenia Unit, Neuroscience Institute, Hospital Clinic of Barcelona, University of Barcelona, Institut d'Investigacions Biomèdiques August Pi I Sunyer, Biomedical Research Networking Centre in Mental Health (CIBERSAM), Barcelona, Spain.
+Instituto de Investigación Sanitaria del Principado de Asturias (ISPA), Oviedo, Spain.
+Department of Medicine, Psychiatry Area, School of Medicine, Universidad de Oviedo, Centro de Investigación Biomédica en Red de Salud Mental (CIBERSAM), Oviedo, Spain.
+Department of Psychiatry, Early Psychosis Section, Amsterdam UMC, University of Amsterdam, Amsterdam, The Netherlands.
+Neuroscience and Behaviour Department, Ribeirão Preto Medical School, University of São Paulo, São Paulo, Brazil.
+ESRC Centre for Society and Mental Health, King's College London, London, UK.
+LUMSA University, Department of Human Science and Department of Psychosis Studies, KCL, Rome, Italy.
+Department of Psychiatry, University of Cambridge, Cambridge, UK.
+CAMEO Early Intervention Service, Cambridgeshire & Peterborough NHS Foundation Trust, Cambridge, UK.
+Psylife Group, Division of Psychiatry, University College London, London, UK.
+Section of Psychiatry, Department of Biomedicine, Neuroscience and advanced Diagnostic (BiND), University of Palermo, Palermo, Italy.
+Section of Psychiatry, Department of Neuroscience, Biomedicine and Movement, University of Verona, Verona, Italy.
+Université Clermont Auvergne, Clermont-Ferrand, France.
+Department of Preventive Medicine, Faculdade de Medicina, Universidade de São Paulo, São Paulo, Brazil.
+Department of Psychiatry and Neuropsychology, School for Mental Health and Neuroscience, South Limburg Mental Health Research and Teaching Network, Maastricht University Medical Centre, Maastricht, The Netherlands.
+Department Psychiatry, Brain Centre Rudolf Magnus, Utrecht University Medical Centre, Utrecht, The Netherlands.
+Department of Psychiatry, Servicio de Psiquiatría Hos"ital "Virgen de"a Luz", C/Hermandad de Donantes de Sangre, 16002, Cuenca, Spain.
+Department of Psychiatry, School of Medicine, Universidad de Valencia, Centro de Investigación Biomédica en Red de Salud Mental (CIBERSAM), C/Avda. Blasco Ibáñez 15, 46010, Valencia, Spain.
+Rivierduinen Institute for Mental Health Care, Leiden, The Netherlands.
+University of Paris Est Creteil, INSERM, IMRB, AP-HP, Hôpitaux Universitaires, H. Mondor, DMU IMPACT, Creteil, France.
+Bologna Transcultural Psychosomatic Team (BoTPT), Department of Medical and Surgical Science, Alma Mater Studiorum Università di Bologna, Bologna, Italy.
+Institute Mondor de recherché biomedicale, Creteil, France.
+GGZ (Mental Health Services) Noord Holland Noord, Heerhugowaard, the Netherlands.
+Department of Psychiatry, Center for Psychiatric Neuroscience, Lausanne University Hospital (CHUV), Lausanne, Switzerland.
+Department of Clinical and Biomedical Sciences, Faculty of Health and Life Sciences, University of Exeter Medical School, University of Exeter, Exeter, UK.
+Psychiatric Imaging Group, MRC London Institute of Medical Sciences, London, UK.
+South London and Maudsley NHS Foundation Trust, London, UK.
+Institute of Clinical Sciences (ICS), Faculty of Medicine, Imperial College London, London, UK."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"V. Barcelona; Y. Huang; B. A. Caceres; K. P. Newhall; Q. Hui; J. P. Cerdeña; C. A. Crusto; Y. V. Sun; J. Y. Taylor"	"2022"	"Experiences of Trauma and DNA Methylation Profiles among African American Mothers and Children"	""	"Int J Mol Sci"	""	""	"23"	""	"16"	""	""	""	""	"20220811"	"Aug 11"	""	""	"Experiences of Trauma and DNA Methylation Profiles among African American Mothers and Children"	""	"1422-0067"	"10.3390/ijms23168951"	""	""	""	"The authors declare no conflict of interest."	"PMC9408935"	""	""	""	""	""	""	"36012217"	""	""	"*Black or African American/genetics
+Child
+*DNA Methylation
+Epigenesis, Genetic
+Epigenome
+Epigenomics
+Female
+Humans
+Mothers
+Aces
+African Americans
+DNA methylation
+trauma
+women"	"Potentially traumatic experiences have been associated with chronic diseases. Epigenetic mechanisms, including DNA methylation (DNAm), have been proposed as an explanation for this association. We examined the association of experiences of trauma with epigenome-wide DNAm among African American mothers (n = 236) and their children aged 3-5 years (n = 232; N = 500), using the Life Events Checklist-5 (LEC) and Traumatic Events Screening Inventory-Parent Report Revised (TESI-PRR). We identified no DNAm sites significantly associated with potentially traumatic experience scores in mothers. One CpG site on the ENOX1 gene was methylome-wide-significant in children (FDR-corrected q-value = 0.05) from the TESI-PRR. This protein-coding gene is associated with mental illness, including unipolar depression, bipolar, and schizophrenia. Future research should further examine the associations between childhood trauma, DNAm, and health outcomes among this understudied and high-risk group. Findings from such longitudinal research may inform clinical and translational approaches to prevent adverse health outcomes associated with epigenetic changes."	"1422-0067
+Barcelona, Veronica
+Orcid: 0000-0003-3070-1716
+Huang, Yunfeng
+Caceres, Billy A
+Newhall, Kevin P
+Hui, Qin
+Cerdeña, Jessica P
+Orcid: 0000-0003-1317-116x
+Crusto, Cindy A
+Sun, Yan V
+Taylor, Jacquelyn Y
+Orcid: 0000-0002-0858-7358
+n/a/Yale School of Nursing Alumni Donor/
+R01NR013520/NR/NINR NIH HHS/United States
+Journal Article
+Switzerland
+2022/08/27
+Int J Mol Sci. 2022 Aug 11;23(16):8951. doi: 10.3390/ijms23168951."	""	"https://mdpi-res.com/d_attachment/ijms/ijms-23-08951/article_deploy/ijms-23-08951.pdf?version=1660213444"	"internal-pdf://3862120563/Barcelona-2022-Experiences of Trauma and DNA M.pdf"	"Center for Research on People of Color, Columbia University School of Nursing, 560 West 168th St., New York, NY 10032, USA.
+Biogen, 225 Binney Street, Cambridge, MA 02142, USA.
+School of Medicine, Case Western Reserve University, 10900 Euclid Ave., Cleveland, OH 44106, USA.
+Department of Epidemiology, Emory University Rollins School of Public Health, 1518 Clifton Road NE, Atlanta, GA 30322, USA.
+MD-PhD Program, Yale School of Medicine, 367 Cedar St., New Haven, CT 06520, USA.
+Department of Anthropology and Institute for Collaboration on Health, Intervention, and Policy (InCHIP), University of Connecticut, 354 Mansfield Rd., Storrs, CT 06269, USA.
+Department of Psychiatry, Yale School of Medicine, 300 George St., New Haven, CT 06511, USA.
+Department of Psychology, University of Pretoria, Private Bag x 20, Hatfield, Pretoria 0028, South Africa."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"J. A. Sumner; S. Gambazza; X. Gao; A. A. Baccarelli; M. Uddin; K. A. McLaughlin"	"2022"	"Epigenetics of early-life adversity in youth: cross-sectional and longitudinal associations"	""	"Clin Epigenetics"	""	""	"14"	""	"1"	"48"	""	""	""	"20220408"	"Apr 8"	""	""	"Epigenetics of early-life adversity in youth: cross-sectional and longitudinal associations"	""	"1868-7075 (Print)
+1868-7075"	"10.1186/s13148-022-01269-9"	""	""	""	"The authors declare that they have no competing interests."	"PMC8994405"	""	""	""	""	""	""	"35395780"	""	""	"Adolescent
+*Adverse Childhood Experiences
+Child
+Cross-Sectional Studies
+DNA Methylation
+Epigenesis, Genetic
+Epigenomics
+Humans
+Abuse
+Deprivation
+Neglect
+Threat"	"BACKGROUND: Altered DNA methylation (DNAm) may be one pathway through which early-life adversity (ELA) contributes to adverse mental and physical health outcomes. This study investigated whether the presence versus absence of ELA experiences reflecting the dimensions of threat and deprivation were associated with epigenome-wide DNAm cross-sectionally and longitudinally in a community-based sample of children and adolescents. METHODS: In 113 youths aged 8-16 years with wide variability in ELA, we examined associations of abuse (physical, sexual, emotional; indicating threat-related experiences) and neglect (emotional, physical; indicating deprivation-related experiences) with DNAm assessed with the Illumina EPIC BeadChip array, with DNA derived from saliva. In cross-sectional epigenome-wide analyses, we investigated associations of lifetime abuse and neglect with DNAm at baseline. In longitudinal epigenome-wide analyses, we examined whether experiencing abuse and neglect over an approximately 2-year follow-up were each associated with change in DNAm from baseline to follow-up. RESULTS: In cross-sectional analyses adjusting for lifetime experience of neglect, lifetime experience of abuse was associated with DNAm for four cytosine-phosphodiester-guanine (CpG) sites (cg20241299: coefficient = 0.023, SE = 0.004; cg08671764: coefficient = 0.018, SE = 0.003; cg27152686: coefficient = - 0.069, SE = 0.012; cg24241897: coefficient = - 0.003, SE = 0.001; FDR < .05). In longitudinal analyses, experiencing neglect over follow-up was associated with an increase in DNAm for one CpG site, adjusting for abuse over follow-up (cg03135983: coefficient = 0.036, SE = 0.006; FDR < .05). CONCLUSIONS: In this study, we identified examples of epigenetic patterns associated with ELA experiences of threat and deprivation that were already observable in youth. We provide novel evidence for change in DNAm over time in relation to ongoing adversity and that experiences reflecting distinct ELA dimensions may be characterized by unique epigenetic patterns."	"1868-7083
+Sumner, Jennifer A
+Gambazza, Simone
+Gao, Xu
+Baccarelli, Andrea A
+Uddin, Monica
+McLaughlin, Katie A
+R01 MH103291/MH/NIMH NIH HHS/United States
+R37 MH119194/MH/NIMH NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Germany
+2022/04/10
+Clin Epigenetics. 2022 Apr 8;14(1):48. doi: 10.1186/s13148-022-01269-9."	""	"https://pmc.ncbi.nlm.nih.gov/articles/PMC8994405/"	""	"Department of Psychology, University of California, Los Angeles, Psychology Building 1285, Box 951563, Los Angeles, CA, 90095-1563, USA. jsumner@psych.ucla.edu.
+Department of Clinical Sciences and Community Health, University of Milan, Milan, Italy.
+Healthcare Professions Department, Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico, Milan, Italy.
+Department of Environmental Health Sciences, Columbia Mailman School of Public Health, New York, NY, USA.
+Department of Occupational and Environmental Health Sciences, Peking University, Beijing, China.
+Genomics Program, College of Public Health, University of South Florida, Tampa, FL, USA.
+Department of Psychology, Harvard University, Cambridge, MA, USA."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"C. A. Cecil; R. G. Smith; E. Walton; J. Mill; E. J. McCrory; E. Viding"	"2016"	"Epigenetic signatures of childhood abuse and neglect: Implications for psychiatric vulnerability"	""	"J Psychiatr Res"	""	""	"83"	""	""	"184-194"	""	""	""	"20160913"	"Dec"	""	""	"Epigenetic signatures of childhood abuse and neglect: Implications for psychiatric vulnerability"	""	"0022-3956"	"10.1016/j.jpsychires.2016.09.010"	""	""	""	""	""	""	""	""	""	""	""	"27643477"	""	""	"Adolescent
+Calcium Channels, L-Type/genetics/metabolism
+Child Abuse/classification/*psychology
+DNA Methylation
+Epigenesis, Genetic/*physiology
+Epigenomics/methods
+Female
+Gene Ontology
+Humans
+Male
+Mental Disorders/*genetics/*psychology
+Presenilin-2/metabolism
+RNA, Messenger/metabolism
+Receptors, GABA-B/genetics/metabolism
+Receptors, N-Methyl-D-Aspartate/genetics/metabolism
+Risk Factors
+Self Report
+Surveys and Questionnaires
+Young Adult
+Child abuse
+Epigenome-wide
+Maltreatment
+Neglect
+Stress"	"Childhood maltreatment is a key risk factor for poor mental and physical health. Recently, variation in epigenetic processes, such as DNA methylation, has emerged as a potential pathway mediating this association; yet, the extent to which different forms of maltreatment may be characterized by unique vs shared epigenetic signatures is currently unknown. In this study, we quantified DNA methylation across the genome in buccal epithelial cell samples from a high-risk sample of inner-city youth (n = 124; age = 16-24; 53% female), 68% of whom reported experiencing at least one form of maltreatment while growing up. Our analyses aimed to identify methylomic variation associated with exposure to five major types of childhood maltreatment. We found that: (i) maltreatment types differ in the extent to which they associate with methylomic variation, with physical exposures showing the strongest associations; (ii) many of the identified loci are annotated to genes previously implicated in stress-related outcomes, including psychiatric and physical disorders (e.g. GABBR1, GRIN2D, CACNA2D4, PSEN2); and (iii) based on gene ontology analyses, maltreatment types not only show unique methylation patterns enriched for specific biological processes (e.g. physical abuse and cardiovascular function), but also share a 'common' epigenetic signature enriched for biological processes related to neural development and organismal growth. A stringent set of sensitivity analyses were also run to identify high-confidence associations. Together, findings lend novel insights into epigenetic signatures of childhood abuse and neglect, point to novel potential biomarkers for future investigation and support a molecular link between maltreatment and poor health outcomes. Nevertheless, it will be important in future to replicate findings, as the use of cross-sectional data and high rates of polyvictimization in our study make it difficult to fully disentangle the shared vs unique epigenetic signatures of maltreatment types. Furthermore, studies will be needed to test the role of potential moderators in the identified associations, including age of onset and chronicity of maltreatment exposure."	"1879-1379
+Cecil, Charlotte A M
+Smith, Rebecca G
+Walton, Esther
+Mill, Jonathan
+McCrory, Eamon J
+Viding, Essi
+MC_UU_12013/2/MRC_/Medical Research Council/United Kingdom
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2016/09/20
+J Psychiatr Res. 2016 Dec;83:184-194. doi: 10.1016/j.jpsychires.2016.09.010. Epub 2016 Sep 13."	""	"https://www.sciencedirect.com/science/article/abs/pii/S0022395616303636?via%3Dihub"	""	"Department of Psychology, Institute of Psychiatry, Psychology and Neuroscience, King's College London, De Crespigny Park, London, SE5 8AF, UK. Electronic address: charlotte.cecil@kcl.ac.uk.
+Department of Psychology, Institute of Psychiatry, Psychology and Neuroscience, King's College London, De Crespigny Park, London, SE5 8AF, UK; University of Exeter Medical School, University of Exeter, Exeter, EX1 2LU, UK.
+Department of Psychology, Institute of Psychiatry, Psychology and Neuroscience, King's College London, De Crespigny Park, London, SE5 8AF, UK; Department of Psychology, Georgia State University, Atlanta, 30302-5010, USA.
+Division of Psychology and Language Sciences, University College London, London, WC1H 0AP, UK."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"P. Kaliman; M. Cosín-Tomás; A. Madrid; S. Roque López; E. Llanez-Anaya; L. A. Papale; R. S. Alisch; R. J. Davidson"	"2022"	"Epigenetic impact of a 1-week intensive multimodal group program for adolescents with multiple adverse childhood experiences"	""	"Sci Rep"	""	""	"12"	""	"1"	"17177"	""	""	""	"20221020"	"Oct 20"	""	""	"Epigenetic impact of a 1-week intensive multimodal group program for adolescents with multiple adverse childhood experiences"	""	"2045-2322"	"10.1038/s41598-022-21246-9"	""	""	""	"The program described in this study was designed by author Susana Roque-López, founder and director of the nonprofit organization Association Innocence in Danger Colombia (IIDC)."	"PMC9585146"	""	""	""	""	""	""	"36266402"	""	""	"Adolescent
+Female
+Humans
+*Adverse Childhood Experiences
+Cardiovascular Diseases/genetics
+DNA Methylation
+*Epigenesis, Genetic
+Transcription Factors/genetics
+Inflammation/genetics
+Neoplasms/genetics"	"Adverse childhood experiences (ACEs, i.e., abuse, neglect, household dysfunction) represent a potential risk factor for a wide range of long-lasting diseases and shorter life expectancy. We recently described a 1-week residential group program, based on mindfulness training, artistic expression and EMDR group therapy, that significantly reduced PTSD-related symptoms and increased attention/awareness-related outcomes in adolescent girls with multiple ACEs in a randomized controlled study. Since epigenetic mechanisms (i.e., DNA methylation) have been associated with the long-lasting effects of ACEs, the present report extends these prior findings by exploring genome-wide DNA methylation changes following the program. Saliva samples from all participants (n = 44) were collected and genomic DNA was extracted prior (T1) and following (T2) the intervention. Genome-wide DNA methylation analysis using the MethylationEPIC beadchip array (Illumina) revealed 49 differentially methylated loci (DML; p value < 0.001; methylation change > 10%) that were annotated to genes with roles in biological processes linked to early childhood adversity (i.e., neural, immune, and endocrine pathways, cancer and cardiovascular disease). DNA sequences flanking these DML showed significant enrichment of transcription factor binding sites involved in inflammation, cancer, cardiovascular disease, and brain development. Methylation changes in SIRT5 and TRAPPC2L genes showed associations with changes in trauma-related psychological measures. Results presented here suggest that this multimodal group program for adolescents with multiple victimization modulates the DNA methylome at sites of potential relevance for health and behavioral disorders associated with ACEs."	"2045-2322
+Kaliman, Perla
+Cosín-Tomás, Marta
+Madrid, Andy
+Roque López, Susana
+Llanez-Anaya, Elkin
+Papale, Ligia A
+Alisch, Reid S
+Davidson, Richard J
+U24 AT011289/AT/NCCIH NIH HHS/United States
+Journal Article
+Randomized Controlled Trial
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+England
+2022/10/21
+Sci Rep. 2022 Oct 20;12(1):17177. doi: 10.1038/s41598-022-21246-9."	""	"https://pmc.ncbi.nlm.nih.gov/articles/PMC9585146/"	""	"Center for Healthy Minds, University of Wisconsin-Madison, 625 W. Washington Ave., Madison, WI, 53703, USA. pkaliman@uoc.edu.
+Universitat Oberta de Catalonia (UOC), Rambla del Poblenou, 156, 08018, Barcelona, Spain. pkaliman@uoc.edu.
+ISGlobal, Barcelona, Catalonia, Spain.
+Universitat Pompeu Fabra, Barcelona, Catalonia, Spain.
+Centro de Investigación Biomédica en red en Epidemiología y Salud Pública (Ciberesp), Madrid, Spain.
+Department of Neurological Surgery, University of Wisconsin-Madison School of Medicine and Public Health, Madison, WI, 53792, USA.
+Association Innocence in Danger Colombia (IIDC), 33 Avenue Saint Charles, 34090, Montpellier, France.
+Masira Institute, University of Santander (UDES), Bucaramanga, Colombia.
+Center for Healthy Minds, University of Wisconsin-Madison, 625 W. Washington Ave., Madison, WI, 53703, USA."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"S. Løkhammer; A. K. Stavrum; T. Polushina; M. Aas; A. A. Ottesen; O. A. Andreassen; I. Melle; S. Le Hellard"	"2022"	"An epigenetic association analysis of childhood trauma in psychosis reveals possible overlap with methylation changes associated with PTSD"	""	"Transl Psychiatry"	""	""	"12"	""	"1"	"177"	""	""	""	"20220430"	"Apr 30"	""	""	"An epigenetic association analysis of childhood trauma in psychosis reveals possible overlap with methylation changes associated with PTSD"	""	"2158-3188"	"10.1038/s41398-022-01936-8"	""	""	""	"OAA received a speaker’s honorarium from Lundbeck and Sunovion, and is a consultant for HealthLytix. The authors declare no competing interests."	"PMC9061740"	""	""	""	""	""	""	"35501310"	""	""	"*Adverse Childhood Experiences
+DNA Methylation
+Epigenesis, Genetic
+Humans
+*Psychotic Disorders/genetics/psychology
+*Stress Disorders, Post-Traumatic/genetics"	"Patients with a severe mental disorder report significantly higher levels of childhood trauma (CT) than healthy individuals. Studies have suggested that CT may affect brain plasticity through epigenetic mechanisms and contribute to developing various psychiatric disorders. We performed a blood-based epigenome-wide association study using the Childhood Trauma Questionnaire-short form in 602 patients with a current severe mental illness, investigating DNA methylation association separately for five trauma subtypes and the total trauma score. The median trauma score was set as the predefined cutoff for determining whether the trauma was present or not. Additionally, we compared our genome-wide results with methylation probes annotated to candidate genes previously associated with CT. Of the patients, 83.2% reported CT above the cutoff in one or more trauma subtypes, and emotional neglect was the trauma subtype most frequently reported. We identified one significant differently methylated position associated with the gene TANGO6 for physical neglect. Seventeen differentially methylated regions (DMRs) were associated with different trauma categories. Several of these DMRs were annotated to genes previously associated with neuropsychiatric disorders such as post-traumatic stress disorder and cognitive impairments. Our results support a biomolecular association between CT and severe mental disorders. Genes that were previously identified as differentially methylated in CT-exposed subjects with and without psychosis did not show methylation differences in our analysis. We discuss this inconsistency, the relevance of our findings, and the limitations of our study."	"2158-3188
+Løkhammer, Solveig
+Orcid: 0000-0001-8049-7106
+Stavrum, Anne-Kristin
+Polushina, Tatiana
+Aas, Monica
+Ottesen, Akiah A
+Andreassen, Ole A
+Orcid: 0000-0002-4461-3568
+Melle, Ingrid
+Orcid: 0000-0002-9783-548x
+Le Hellard, Stephanie
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2022/05/03
+Transl Psychiatry. 2022 Apr 30;12(1):177. doi: 10.1038/s41398-022-01936-8."	""	"https://pmc.ncbi.nlm.nih.gov/articles/PMC9061740/"	""	"NORMENT, Department of Clinical Science, University of Bergen, Bergen, Norway. solveig.lokhammer@uib.no.
+Dr. Einar Martens Research Group for Biological Psychiatry, Center for Medical Genetics and Molecular Medicine, Haukeland University Hospital, Bergen, Norway. solveig.lokhammer@uib.no.
+NORMENT, Department of Clinical Science, University of Bergen, Bergen, Norway.
+Dr. Einar Martens Research Group for Biological Psychiatry, Center for Medical Genetics and Molecular Medicine, Haukeland University Hospital, Bergen, Norway.
+NORMENT, Division of Mental Health and Addiction, Oslo University Hospital & Institute of Clinical Medicine, University of Oslo, Oslo, Norway.
+Department of Mental Health Research and Development, Division of Mental Health and Addiction, Vestre Viken Hospital Trust, Oslo, Norway.
+Norwegian Centre for Violence and Traumatic Stress Studies, Oslo, Norway.
+Bergen Center for Brain Plasticity, Haukeland University Hospital, Bergen, Norway."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"E. S. Clausing; A. M. Binder; A. L. Non"	"2021"	"Epigenetic age associates with psychosocial stress and resilience in children of Latinx immigrants"	""	"Epigenomics"	""	""	"13"	""	"21"	"1677-1699"	""	""	""	"20210322"	"Nov"	""	""	"Epigenetic age associates with psychosocial stress and resilience in children of Latinx immigrants"	""	"1750-192x"	"10.2217/epi-2019-0343"	""	""	""	""	""	""	""	""	""	""	""	"33749330"	""	""	"Adolescent
+Child
+DNA Methylation
+*Emigrants and Immigrants
+Epigenesis, Genetic
+Epigenomics
+*Genome-Wide Association Study
+Humans
+Stress, Psychological/genetics
+Latinx
+early-life adversity
+election effects
+epigenetic aging
+epigenome-wide association study
+immigrants
+pediatric
+psychosocial stress
+resilience"	"Aim: To investigate associations of psychosocial stressors and resilience factors with DNA methylation age in the saliva of Latinx children of immigrants before and after the 2016 presidential election (2015-2018). Materials & methods: We compared psychosocial exposures with four distinct measures of epigenetic age assessed in the saliva of children (6-13 years, n = 71 pre-election; n = 35 post-election). Exploratory genome-wide analyses were also conducted. Results: We found distinct associations across epigenetic clocks and time points; for example, greater maternal social status pre-election and fear of parent deportation post-election both associated with decreased Hannum age (p ≤ 0.01). Conclusion: Although limited in size, our unique study design provides novel hypotheses regarding how the social environment may influence epigenetic aging and genome-wide methylation, potentially contributing to racial/ethnic health inequalities."	"1750-192x
+Clausing, Elizabeth S
+Binder, Alexandra M
+Non, Amy L
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2021/03/23
+Epigenomics. 2021 Nov;13(21):1677-1699. doi: 10.2217/epi-2019-0343. Epub 2021 Mar 22."	""	""	""	"Department of Anthropology at The University of California, San Diego, 92093 CA, USA.
+Department of Epidemiology at The University of California, Los Angeles, 90095 CA, USA."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"Z. Marinova; A. Maercker; A. Küffer; M. D. Robinson; T. K. Wojdacz; S. Walitza; E. Grünblatt; A. Burri"	"2017"	"DNA methylation profiles of elderly individuals subjected to indentured childhood labor and trauma"	""	"BMC Med Genet"	""	""	"18"	""	"1"	"21"	""	""	""	"20170227"	"Feb 27"	""	""	"DNA methylation profiles of elderly individuals subjected to indentured childhood labor and trauma"	""	"1471-2350"	"10.1186/s12881-017-0370-2"	""	""	""	""	"PMC5329963"	""	""	""	""	""	""	"28241754"	""	""	"Aged
+Aged, 80 and over
+Case-Control Studies
+Child
+*Child Abuse
+CpG Islands
+DNA/chemistry/isolation & purification/metabolism
+*DNA Methylation
+Female
+Humans
+Intracellular Signaling Peptides and Proteins/genetics
+Male
+Mouth Mucosa/metabolism
+Oligonucleotide Array Sequence Analysis
+Proteins/genetics"	"BACKGROUND: Childhood trauma is associated with increased vulnerability to mental and somatic disorders later in life. Epigenetic modifications such as DNA methylation are one potential mechanism through which such long-lasting impairments/consequences can be explained. The aim of the present study was to investigate whether childhood trauma is associated with long-term DNA methylation alterations in old age. METHODS: We assessed genome-wide DNA methylation profiles in a cohort of former indentured child laborers ("Verdingkinder") who suffered severe childhood adversities (N = 30; M age = 75.9 years), and compared them to control group with similar demographic characteristics (N = 15, M age = 72.8 years). DNA was isolated from epithelial buccal cells and hybridized to the Illumina Infinium 450 k DNA methylation array, which provides coverage of 485,000 methylation sites. RESULTS: After accounting for batch effects, age, gender and multiple testing, 71 differentially methylated CpG positions were identified between the two groups. They were annotated among others to genes involved in neuronal projections and neuronal development. Some of the identified genes with differential methylation (DLG associated protein 2, mechanistic target of rapamycin) have previously been associated with traumatic stress. CONCLUSIONS: The results indicate specific epigenetic alterations in elderly individuals who were subjected to childhood adversities. Psychiatric and somatic comorbidities as well as differences in buccal epithelial cells proportion may contribute to the observed epigenetic differences."	"1471-2350
+Marinova, Zoya
+Maercker, Andreas
+Küffer, Andreas
+Robinson, Mark D
+Wojdacz, Tomasz K
+Walitza, Susanne
+Grünblatt, Edna
+Burri, Andrea
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2017/03/01
+BMC Med Genet. 2017 Feb 27;18(1):21. doi: 10.1186/s12881-017-0370-2."	""	""	""	"Department of Child and Adolescent Psychiatry and Psychotherapy, Psychiatric Hospital, University of Zurich, Neumunsterallee 9, 8032, Zurich, Switzerland. zoyamarinova@gmail.com.
+Department of Psychology, University of Zurich, Zurich, Switzerland.
+University Research Priority Program Dynamics of Healthy Aging, University of Zurich, Zurich, Switzerland.
+Institute of Molecular Life Sciences, University of Zurich, Zurich, Switzerland.
+SIB Swiss Institute of Bioinformatics, University of Zurich, Zurich, Switzerland.
+Aarhus Institute of Advanced Studies, University of Aarhus, Aarhus, Denmark.
+Department of Child and Adolescent Psychiatry and Psychotherapy, Psychiatric Hospital, University of Zurich, Neumunsterallee 9, 8032, Zurich, Switzerland.
+Neuroscience Center Zurich, University of Zurich and the ETH Zurich, Zurich, Switzerland.
+Zurich Center for Integrative Human Physiology, University of Zurich, Zurich, Switzerland.
+Health and Rehabilitation Research Institute, Auckland University of Technology, Auckland, New Zealand.
+Waitemata Pain Service, Department of Anaesthesia and Perioperative Medicine, North Shore Hospital, Auckland, New Zealand."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"A. Wiegand; B. Kreifelts; M. H. J. Munk; N. Geiselhart; K. E. Ramadori; J. L. MacIsaac; A. J. Fallgatter; M. S. Kobor; V. Nieratschker"	"2021"	"DNA methylation differences associated with social anxiety disorder and early life adversity"	""	"Transl Psychiatry"	""	""	"11"	""	"1"	"104"	""	""	""	"20210204"	"Feb 4"	""	""	"DNA methylation differences associated with social anxiety disorder and early life adversity"	""	"2158-3188"	"10.1038/s41398-021-01225-w"	""	""	""	"The authors declare that they have no conflict of interest."	"PMC7862482"	""	""	""	""	""	""	"33542190"	""	""	"*Adverse Childhood Experiences
+DNA Methylation
+Epigenesis, Genetic
+Epigenome
+Humans
+*Phobia, Social/genetics"	"Social anxiety disorder (SAD) is a psychiatric disorder characterized by extensive fear in social situations. Multiple genetic and environmental factors are known to contribute to its pathogenesis. One of the main environmental risk factors is early life adversity (ELA). Evidence is emerging that epigenetic mechanisms such as DNA methylation might play an important role in the biological mechanisms underlying SAD and ELA. To investigate the relationship between ELA, DNA methylation, and SAD, we performed an epigenome-wide association study for SAD and ELA examining DNA from whole blood of a cohort of 143 individuals using DNA methylation arrays. We identified two differentially methylated regions (DMRs) associated with SAD located within the genes SLC43A2 and TNXB. As this was the first epigenome-wide association study for SAD, it is worth noting that both genes have previously been associated with panic disorder. Further, we identified two DMRs associated with ELA within the SLC17A3 promoter region and the SIAH3 gene and several DMRs that were associated with the interaction of SAD and ELA. Of these, the regions within C2CD2L and MRPL28 showed the largest difference in DNA methylation. Lastly, we found that two DMRs were associated with both the severity of social anxiety and ELA, however, neither of them was found to mediate the contribution of ELA to SAD later in life. Future studies are needed to replicate our findings in independent cohorts and to investigate the biological pathways underlying these effects."	"2158-3188
+Wiegand, Ariane
+Kreifelts, Benjamin
+Munk, Matthias H J
+Geiselhart, Nadja
+Ramadori, Katia E
+MacIsaac, Julia L
+Fallgatter, Andreas J
+Kobor, Michael S
+Nieratschker, Vanessa
+Orcid: 0000-0001-7884-4500
+NI1332/6-1/Deutsche Forschungsgemeinschaft (German Research Foundation)/
+KR 4398/3-1/Deutsche Forschungsgemeinschaft (German Research Foundation)/
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2021/02/06
+Transl Psychiatry. 2021 Feb 4;11(1):104. doi: 10.1038/s41398-021-01225-w."	""	"https://pmc.ncbi.nlm.nih.gov/articles/PMC7862482/"	""	"Department of Psychiatry and Psychotherapy, Eberhard Karls University of Tübingen, Tübingen, Germany.
+Graduate Training Centre of Neuroscience, University of Tübingen, Tübingen, Germany.
+Department of Biology, Technische Universität Darmstadt, Darmstadt, Germany.
+Department of Medical Genetics, University of British Columbia, BC Children's Hospital Research Institute, Vancouver, V5Z 4H4, BC, Canada.
+Department of Psychiatry and Psychotherapy, Eberhard Karls University of Tübingen, Tübingen, Germany. vanessa.nieratschker@med.uni-tuebingen.de.
+Werner Reichardt Centre for Integrative Neuroscience, Tübingen, Germany. vanessa.nieratschker@med.uni-tuebingen.de."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"S. Li; W. Wang; D. Zhang; W. Li; J. Lund; T. Kruse; J. Mengel-From; K. Christensen; Q. Tan"	"2021"	"Differential regulation of the DNA methylome in adults born during the Great Chinese Famine in 1959-1961"	""	"Genomics"	""	""	"113"	""	"6"	"3907-3918"	""	""	""	"20210929"	"Nov"	""	""	"Differential regulation of the DNA methylome in adults born during the Great Chinese Famine in 1959-1961"	""	"0888-7543"	"10.1016/j.ygeno.2021.09.018"	""	""	""	""	""	""	""	""	""	""	""	"34600028"	""	""	"Adult
+China
+DNA Methylation
+Epigenesis, Genetic
+*Epigenome
+Famine
+Humans
+*Prenatal Exposure Delayed Effects/genetics
+Association
+Chinese famine
+Fetal adversity"	"BACKGROUND: Extensive epidemiological studies have established the association between exposure to early-life adversity and health status and diseases in adults. Epigenetic regulation is considered as a key mediator for this phenomenon but analysis on humans is sparse. The Great Chinese Famine lasting from 1958 to 1961 is a natural string of disasters offering a precious opportunity for elucidating the underlying epigenetic mechanism of the long-term effect of early adversity. METHODS: Using a high-throughput array platform for DNA methylome profiling, we conducted a case-control epigenome-wide association study on early-life exposure to Chinese famine in 79 adults born during 1959-1961 and compared to 105 unexposed subjects born 1963-1964. RESULTS: The single CpG site analysis of whole epigenome revealed a predominant pattern of decreased DNA methylation levels associated with fetal exposure to famine. Four CpG sites were detected with p < 1e-06 (linked to EHMT1, CNR1, UBXN7 and ESM1 genes), 16 CpGs detected with 1e-06 < p < 1e-05 and 157 CpGs with 1e-05 < p < 1e-04, with a predominant pattern of hypomethylation. Functional annotation to genes and their enriched biological pathways mainly involved neurodevelopment, neuropsychological disorders and metabolism. Multiple sites analysis detected two top-rank differentially methylated regions harboring RNF39 on chromosome 6 and PTPRN2 on chromosome 7, both showing epigenetic association with stress-related conditions. CONCLUSION: Early-life exposure to famine could mediate DNA methylation regulations that persist into adulthood with broad impacts in the activities of genes and biological pathways. Results from this study provide new clues to the epigenetic embedding of early-life adversity and its impacts on adult health."	"1089-8646
+Li, Shuxia
+Wang, Weijing
+Zhang, Dongfeng
+Li, Weilong
+Lund, Jesper
+Kruse, Torben
+Mengel-From, Jonas
+Christensen, Kaare
+Tan, Qihua
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2021/10/03
+Genomics. 2021 Nov;113(6):3907-3918. doi: 10.1016/j.ygeno.2021.09.018. Epub 2021 Sep 29."	""	"https://www.sciencedirect.com/science/article/pii/S0888754321003608?via%3Dihub"	""	"Epidemiology and Biostatistics, Department of Public Health, University of Southern Denmark, Odense, Denmark. Electronic address: sli@health.sdu.dk.
+Qingdao University School of Public Health, Qingdao, China.
+Epidemiology and Biostatistics, Department of Public Health, University of Southern Denmark, Odense, Denmark; Population Research Unit, Faculty of Social Sciences, University of Helsinki, Finland. Electronic address: weilong.li@helsinki.fi.
+Epidemiology and Biostatistics, Department of Public Health, University of Southern Denmark, Odense, Denmark; Digital Health & Machine Learning Research Group, Hasso Plattner Institute for Digital Engineering, Potsdam, Germany. Electronic address: jlund@health.sdu.dk.
+Unit of Human Genetics, Department of Clinical Research, University of Southern Denmark, Odense, Denmark. Electronic address: torben.kruse@rsyd.dk.
+Epidemiology and Biostatistics, Department of Public Health, University of Southern Denmark, Odense, Denmark. Electronic address: jmengel-from@health.sdu.dk.
+Epidemiology and Biostatistics, Department of Public Health, University of Southern Denmark, Odense, Denmark. Electronic address: kchristensen@health.sdu.dk.
+Epidemiology and Biostatistics, Department of Public Health, University of Southern Denmark, Odense, Denmark; Unit of Human Genetics, Department of Clinical Research, University of Southern Denmark, Odense, Denmark. Electronic address: qtan@health.sdu.dk."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"E. A. Esposito; M. J. Jones; J. R. Doom; J. L. MacIsaac; M. R. Gunnar; M. S. Kobor"	"2016"	"Differential DNA methylation in peripheral blood mononuclear cells in adolescents exposed to significant early but not later childhood adversity"	""	"Dev Psychopathol"	""	""	"28"	""	"4pt2"	"1385-1399"	""	""	""	"20160205"	"Nov"	""	""	"Differential DNA methylation in peripheral blood mononuclear cells in adolescents exposed to significant early but not later childhood adversity"	""	"0954-5794 (Print)
+0954-5794"	"10.1017/s0954579416000055"	""	""	""	""	"PMC5903568"	""	""	""	"NIHMS952535"	""	""	"26847422"	""	""	"Adolescent
+*Adoption
+Age Factors
+Child
+CpG Islands/*genetics
+*DNA Methylation
+Female
+Humans
+Leukocytes, Mononuclear/*metabolism
+Male
+Parents
+Russia
+United States"	"Internationally adopted adolescents who are adopted as young children from conditions of poverty and deprivation have poorer physical and mental health outcomes than do adolescents conceived, born, and raised in the United States by families similar to those who adopt internationally. Using a sample of Russian and Eastern European adoptees to control for Caucasian race and US birth, and nonadopted offspring of well-educated and well-resourced parents to control for postadoption conditions, we hypothesized that the important differences in environments, conception to adoption, might be reflected in epigenetic patterns between groups, specifically in DNA methylation. Thus, we conducted an epigenome-wide association study to compare DNA methylation profiles at approximately 416,000 individual CpG loci from peripheral blood mononuclear cells of 50 adopted youth and 33 nonadopted youth. Adopted youth averaged 22 months at adoption, and both groups averaged 15 years at testing; thus, roughly 80% of their lives were lived in similar circumstances. Although concurrent physical health did not differ, cell-type composition predicted using the DNA methylation data revealed a striking difference in the white blood cell-type composition of the adopted and nonadopted youth. After correcting for cell type and removing invariant probes, 30 CpG sites in 19 genes were more methylated in the adopted group. We also used an exploratory functional analysis that revealed that 223 gene ontology terms, clustered in neural and developmental categories, were significantly enriched between groups."	"1469-2198
+Esposito, Elisa A
+Jones, Meaghan J
+Doom, Jenalee R
+MacIsaac, Julia L
+Gunnar, Megan R
+Kobor, Michael S
+T32 HD007151/HD/NICHD NIH HHS/United States
+T32 MH015755/MH/NIMH NIH HHS/United States
+UL1 TR000114/TR/NCATS NIH HHS/United States
+Journal Article
+United States
+2016/10/26
+Dev Psychopathol. 2016 Nov;28(4pt2):1385-1399. doi: 10.1017/S0954579416000055. Epub 2016 Feb 5."	""	"https://pmc.ncbi.nlm.nih.gov/articles/PMC5903568/"	""	"University of Minnesota Institute of Child Development.
+University of British Columbia Child and Family Research Institute."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"L. Perna; Y. Zhang; B. Wild; M. Kliegel; A. Ihle; B. Schöttker; U. Mons; H. Brenner"	"2020"	"Childhood exposure to hunger: associations with health outcomes in later life and epigenetic markers"	""	"Epigenomics"	""	""	"12"	""	"21"	"1861-1870"	""	""	""	"20201120"	"Nov"	""	""	"Childhood exposure to hunger: associations with health outcomes in later life and epigenetic markers"	""	"1750-192x"	"10.2217/epi-2019-0333"	""	""	""	""	""	""	""	""	""	""	""	"33215951"	""	""	"Age Factors
+*Biomarkers
+DNA Methylation
+*Epigenesis, Genetic
+Epigenomics/methods
+Genome-Wide Association Study
+*Health Impact Assessment
+Humans
+*Hunger
+Public Health Surveillance
+Starvation/*epidemiology/*genetics
+Ewas
+German famine
+cardiovascular disease
+childhood hunger
+depressive symptoms
+early-life adversity
+epigenetics
+late-life depression
+older adults"	"Aim: To assess associations of early exposure to hunger with depressive symptoms and cardiovascular disease (CVD) and to investigate possible epigenetic pathways. Patients & methods: Data were based on a German population-based cohort of older adults (n = 9631). Regression models were performed for health outcomes in later life. An epigenome-wide association study for early-life exposure to hunger was performed in a subgroup (n = 2221) with whole blood DNA methylation data. Results: Childhood exposure to hunger was associated with CVD and depressive symptoms in later life. Prenatal or infant exposure was strongly associated with depressive symptoms. No CpG reached epigenome-wide significance after multiple testing correction. Conclusion: Childhood hunger is a risk factor for depressive symptoms and CVD at older age. DNA methylation could not explain this association."	"1750-192x
+Perna, Laura
+Orcid: 0000-0002-7383-9806
+Zhang, Yan
+Wild, Beate
+Kliegel, Matthias
+Ihle, Andreas
+Schöttker, Ben
+Mons, Ute
+Brenner, Hermann
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2020/11/21
+Epigenomics. 2020 Nov;12(21):1861-1870. doi: 10.2217/epi-2019-0333. Epub 2020 Nov 20."	""	""	""	"Division of Clinical Epidemiology & Aging Research, German Cancer Research Center (DKFZ), 69120 Heidelberg, Germany.
+Department of Translational Research in Psychiatry, Max Planck Institute of Psychiatry, 80804 Munich, Germany.
+Department of General Internal Medicine & Psychosomatics, Medical University Hospital, University of Heidelberg, Im Neuenheimer Feld 672, 69120 Heidelberg, Germany.
+Department of Psychology, University of Geneva, 1211 Geneva, Switzerland.
+Center for the Interdisciplinary Study of Gerontology & Vulnerability, University of Geneva, 1205 Geneva, Switzerland.
+Swiss National Centre of Competence in Research LIVES - Overcoming vulnerability: Life course perspectives, University of Lausanne, 1015 Lausanne, Switzerland.
+Network Aging Research (NAR), University of Heidelberg, 69115 Heidelberg, Germany.
+Cancer Prevention Unit, German Cancer Research Center (DKFZ), Im Neuenheimer Feld 280, 69120 Heidelberg, Germany."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"L. C. Houtepen; R. Hardy; J. Maddock; D. Kuh; E. L. Anderson; C. L. Relton; M. J. Suderman; L. D. Howe"	"2018"	"Childhood adversity and DNA methylation in two population-based cohorts"	""	"Transl Psychiatry"	""	""	"8"	""	"1"	"266"	""	""	""	"20181203"	"Dec 3"	""	""	"Childhood adversity and DNA methylation in two population-based cohorts"	""	"2158-3188"	"10.1038/s41398-018-0307-3"	""	""	""	"The authors declare that they have no conflict of interest."	"PMC6277431"	""	""	""	""	""	""	"30510187"	""	""	"*Adverse Childhood Experiences
+Cohort Studies
+*DNA Methylation
+*Epigenesis, Genetic
+Female
+Genome-Wide Association Study
+Humans
+Male
+Middle Aged"	"Childhood adversity affects later health, but the underlying molecular mechanisms are unclear. Although there is some evidence from animal models and case-control studies of a role for DNA methylation, evidence from human population-based studies is limited. In two cohorts (mothers from the Avon Longitudinal Study of Parents and Children, ALSPAC, n = 780 and women from the MRC National Survey of Health and Development, NSHD, n = 552), we assessed the association of seven adverse childhood experiences (ACEs: parental physical illness, parental mental illness, parental death, parental separation, suboptimal maternal bonding, childhood illness and child maltreatment) as well as their combination (ACE score) with genome-wide DNA methylation levels measured using the Illumina Infinium HumanMethylation450 BeadChip in peripheral blood at mean age 47 years (ALSPAC) and in buccal cells at age 53 years (NSHD). CpG sites with a genome-wide false discovery rate (FDR) below 0.05 and differentially methylated regions (DMRs) with one-step Šidák correction p-values below 0.05 in each cohort were examined in the other cohort. No individual CpG sites replicated across cohorts. However, nine DMRs replicated across cohorts respectively associated with the ACE score (one region), parental mental illness (two regions), parental physical illness (three regions) and parental death (three regions). These observations indicate that some adverse childhood experiences, notably those related to parental health, may leave imprints on peripheral DNA methylation that persist to mid-life."	"2158-3188
+Houtepen, L C
+Orcid: 0000-0003-1442-8852
+Hardy, R
+Maddock, J
+Kuh, D
+Orcid: 0000-0001-7386-2857
+Anderson, E L
+Relton, C L
+Suderman, M J
+Howe, L D
+MC_UU_12019/1/MRC_/Medical Research Council/United Kingdom
+R01 AG048835/AG/NIA NIH HHS/United States
+MC_UU_12019/2/MRC_/Medical Research Council/United Kingdom
+102215/2/13/2/WT_/Wellcome Trust/United Kingdom
+MR/P014437/1/MRC_/Medical Research Council/United Kingdom
+WT_/Wellcome Trust/United Kingdom
+MR/M020894/1/MRC_/Medical Research Council/United Kingdom
+MC_UU_00011/6/MRC_/Medical Research Council/United Kingdom
+G9815508/MRC_/Medical Research Council/United Kingdom
+MC_UU_12013/2/MRC_/Medical Research Council/United Kingdom
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+2018/12/05
+Transl Psychiatry. 2018 Dec 3;8(1):266. doi: 10.1038/s41398-018-0307-3."	""	"https://pmc.ncbi.nlm.nih.gov/articles/PMC6277431/"	""	"MRC Integrative Epidemiology Unit at the University of Bristol, Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK.
+MRC Unit for Lifelong Health and Ageing, University College London, London, UK.
+MRC Integrative Epidemiology Unit at the University of Bristol, Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK. laura.howe@bristol.ac.uk."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"M. Suderman; N. Borghol; J. J. Pappas; S. M. Pinto Pereira; M. Pembrey; C. Hertzman; C. Power; M. Szyf"	"2014"	"Childhood abuse is associated with methylation of multiple loci in adult DNA"	""	"BMC Med Genomics"	""	""	"7"	""	""	"13"	""	""	""	"20140311"	"Mar 11"	""	""	"Childhood abuse is associated with methylation of multiple loci in adult DNA"	""	"1755-8794"	"10.1186/1755-8794-7-13"	""	""	""	""	"PMC4007631"	""	""	""	""	""	""	"24618023"	""	""	"Adult
+Base Pairing/genetics
+Child
+*Child Abuse
+Cluster Analysis
+CpG Islands/genetics
+DNA Methylation/*genetics
+*Genetic Association Studies
+*Genetic Loci
+Genome, Human/genetics
+Humans
+Male
+MicroRNAs/genetics/metabolism
+Promoter Regions, Genetic
+Reproducibility of Results
+Socioeconomic Factors
+Wnt Signaling Pathway/genetics"	"BACKGROUND: Childhood abuse is associated with increased adult disease risk, suggesting that processes acting over the long-term, such as epigenetic regulation of gene activity, may be involved. DNA methylation is a critical mechanism in epigenetic regulation. We aimed to establish whether childhood abuse was associated with adult DNA methylation profiles. METHODS: In 40 males from the 1958 British Birth Cohort we compared genome-wide promoter DNA methylation in blood taken at 45y for those with, versus those without, childhood abuse (n = 12 vs 28). We analysed the promoter methylation of over 20,000 genes and 489 microRNAs, using MeDIP (methylated DNA immunoprecipitation) in triplicate. RESULTS: We found 997 differentially methylated gene promoters (311 hypermethylated and 686 hypomethylated) in association with childhood abuse and these promoters were enriched for genes involved in key cell signaling pathways related to transcriptional regulation and development. Using bisulfite-pyrosequencing, abuse-associated methylation (MeDIP) at the metalloproteinase gene, PM20D1, was validated and then replicated in an additional 27 males. Abuse-associated methylation was observed in 39 microRNAs; in 6 of these, the hypermethylated state was consistent with the hypomethylation of their downstream gene targets. Although distributed across the genome, the differentially methylated promoters associated with child abuse clustered in genome regions of at least one megabase. The observations for child abuse showed little overlap with methylation patterns associated with socioeconomic position. CONCLUSIONS: Our observed genome-wide methylation profiles in adult DNA associated with childhood abuse justify the further exploration of epigenetic regulation as a mediating mechanism for long-term health outcomes."	"1755-8794
+Suderman, Matthew
+Borghol, Nada
+Pappas, Jane J
+Pinto Pereira, Snehal M
+Pembrey, Marcus
+Hertzman, Clyde
+Power, Chris
+Szyf, Moshe
+G0000934/Medical Research Council/United Kingdom
+G0400546/Medical Research Council/United Kingdom
+MOP-42411/Canadian Institutes of Health Research/Canada
+Wellcome Trust/United Kingdom
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2014/03/13
+BMC Med Genomics. 2014 Mar 11;7:13. doi: 10.1186/1755-8794-7-13."	""	"https://pmc.ncbi.nlm.nih.gov/articles/PMC4007631/"	""	"Sackler Program for Epigenetics & Developmental Psychobiology, McGill University, 3655 Promenade Sir William Osler, Montreal H3G 1Y6, QC, Canada. moshe.szyf@mcgill.ca."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"N. Weder; H. Zhang; K. Jensen; B. Z. Yang; A. Simen; A. Jackowski; D. Lipschitz; H. Douglas-Palumberi; M. Ge; F. Perepletchikova; K. O'Loughlin; J. J. Hudziak; J. Gelernter; J. Kaufman"	"2014"	"Child abuse, depression, and methylation in genes involved with stress, neural plasticity, and brain circuitry"	""	"J Am Acad Child Adolesc Psychiatry"	""	""	"53"	""	"4"	"417-24.e5"	""	""	""	"20140127"	"Apr"	""	""	"Child abuse, depression, and methylation in genes involved with stress, neural plasticity, and brain circuitry"	""	"0890-8567 (Print)
+0890-8567"	"10.1016/j.jaac.2013.12.025"	""	""	""	"Dr. Kaufman has served as a consultant for Merck Pharmaceutical. Drs. Zhang, Jensen, Yang, Simen, Jackowski, Lipschitz, Perepletchikova, and Gelernter, and Ms. Douglas-Palumberi, Ge, and O’Loughlin report no biomedical financial interests or potential conflicts of interest."	"PMC4126411"	""	""	""	"NIHMS572461"	""	""	"24655651"	""	""	"Adolescent
+Child
+*Child Abuse
+Child, Preschool
+DNA Methylation/genetics
+Depression/*genetics
+Epigenesis, Genetic/*genetics
+Female
+Genome-Wide Association Study
+Humans
+Inhibitor of Differentiation Proteins/*genetics
+Male
+Neoplasm Proteins/*genetics
+Nerve Net/metabolism
+Nerve Tissue Proteins/*genetics
+Neuronal Plasticity/genetics
+Receptors, N-Methyl-D-Aspartate/*genetics
+Stress, Psychological/*genetics/metabolism
+child abuse
+depression
+epigenetics
+methylation"	"OBJECTIVES: To determine whether epigenetic markers predict dimensional ratings of depression in maltreated children. METHOD: A genome-wide methylation study was completed using the Illumina 450K BeadChip array in 94 maltreated and 96 healthy nontraumatized children with saliva-derived DNA. The 450K BeadChip does not include any methylation sites in the exact location as sites in candidate genes previously examined in the literature, so a test for replication of prior research findings was not feasible. RESULTS: Methylation in 3 genes emerged as genome-wide-significant predictors of depression: DNA-Binding Protein Inhibitor ID-3 (ID3); Glutamate Receptor, Ionotropic N-methyl-D-aspartate (NMDA) 1 (GRIN1); and Tubulin Polymerization Promoting Protein (TPPP) (p < 5.0 × 10(-7), all analyses). These genes are all biologically relevant with ID3 involved in the stress response, GRIN1 involved in neural plasticity, and TPPP involved in neural circuitry development. Methylation in CpG sites in candidate genes were not predictors of depression at significance levels corrected for whole genome testing, but maltreated and control children did have significantly different β values after Bonferroni correction at multiple methylation sites in these candidate genes (e.g., BDNF, NR3C1, FKBP5). CONCLUSIONS: This study suggests that epigenetic changes in ID3, GRIN1, and TPPP genes, in combination with experiences of maltreatment, may confer risk for depression in children. The study adds to a growing body of literature supporting a role for epigenetic mechanisms in the pathophysiology of stress-related psychiatric disorders. Although epigenetic changes are frequently long lasting, they are not necessarily permanent. Consequently, interventions to reverse the negative biological and behavioral sequelae associated with child maltreatment are briefly discussed."	"1527-5418
+Weder, Natalie
+Zhang, Huiping
+Jensen, Kevin
+Yang, Bao Zhu
+Simen, Arthur
+Jackowski, Andrea
+Lipschitz, Deborah
+Douglas-Palumberi, Heather
+Ge, Margrat
+Perepletchikova, Francheska
+O'Loughlin, Kerry
+Hudziak, James J
+Gelernter, Joel
+Kaufman, Joan
+T32 MH067763/MH/NIMH NIH HHS/United States
+K23 MH01789/MH/NIMH NIH HHS/United States
+R01 DA012690/DA/NIDA NIH HHS/United States
+K01 DA024758/DA/NIDA NIH HHS/United States
+R01 MH065519/MH/NIMH NIH HHS/United States
+R01 MH077087/MH/NIMH NIH HHS/United States
+MH098073/MH/NIMH NIH HHS/United States
+K99 DA022891/DA/NIDA NIH HHS/United States
+R01 AA017535/AA/NIAAA NIH HHS/United States
+R01 MH098073/MH/NIMH NIH HHS/United States
+K23 MH001789/MH/NIMH NIH HHS/United States
+DA12849/DA/NIDA NIH HHS/United States
+K01 DA24758/DA/NIDA NIH HHS/United States
+MH077087/MH/NIMH NIH HHS/United States
+R01 DA012849/DA/NIDA NIH HHS/United States
+R00 DA022891/DA/NIDA NIH HHS/United States
+AA11330R01/AA/NIAAA NIH HHS/United States
+K99/R00DA022891/DA/NIDA NIH HHS/United States
+R03 DA022251/DA/NIDA NIH HHS/United States
+DA022251/DA/NIDA NIH HHS/United States
+MH65519/MH/NIMH NIH HHS/United States
+AA017535/AA/NIAAA NIH HHS/United States
+DA12690/DA/NIDA NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, Non-P.H.S.
+United States
+2014/03/25
+J Am Acad Child Adolesc Psychiatry. 2014 Apr;53(4):417-24.e5. doi: 10.1016/j.jaac.2013.12.025. Epub 2014 Jan 27."	""	"https://pmc.ncbi.nlm.nih.gov/articles/PMC4126411/"	""	"Child Mind Institute.
+Yale University School of Medicine.
+Yale University School of Medicine; Merck Research Laboratories.
+LiNC, Universidade Federal de São Paulo, São Paulo, Brazil.
+University of Vermont, Vermont Center for Children, Youth, and Families.
+Child Mind Institute; Yale University School of Medicine. Electronic address: 06520.joan.kaufman@yale.edu."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"B. Z. Yang; H. Zhang; W. Ge; N. Weder; H. Douglas-Palumberi; F. Perepletchikova; J. Gelernter; J. Kaufman"	"2013"	"Child abuse and epigenetic mechanisms of disease risk"	""	"Am J Prev Med"	""	""	"44"	""	"2"	"101-7"	""	""	""	""	"Feb"	""	""	"Child abuse and epigenetic mechanisms of disease risk"	""	"0749-3797 (Print)
+0749-3797"	"10.1016/j.amepre.2012.10.012"	""	""	""	""	"PMC3758252"	""	""	""	"NIHMS429604"	""	""	"23332324"	""	""	"Adolescent
+Case-Control Studies
+Child
+*Child Abuse
+Child, Preschool
+DNA/analysis
+*DNA Methylation
+*Epigenesis, Genetic
+Female
+Genome-Wide Association Study
+Humans
+Male
+Oligonucleotide Array Sequence Analysis
+Risk Factors
+Saliva"	"BACKGROUND: Child abuse is highly prevalent and associated with increased risk for a range of health problems, including cancer, cardiovascular disease, diabetes, psychiatric disorders, and other health problems. Little is currently known about the mechanism by which early adversity confers risk for health problems later in life. PURPOSE: To determine if there are epigenetic differences associated with child maltreatment that may help explain association between adverse childhood experiences and later health problems. METHODS: As part of a study examining genetic and environmental factors associated with depression, saliva DNA specimens were collected on 96 maltreated children removed from their parents due to abuse or neglect and 96 demographically matched control children between 2003 and 2010. In 2011, the Illumina 450K BeadChip was used on stored DNA specimens and analyzed to examine whole-genome methylation differences between maltreated and control children. RESULTS: After controlling for multiple comparisons, maltreated and control children had significantly different methylation values at 2868 CpG sites (p<5.0 × 10(-7), all sites; average methylation difference per site=17%; range=1%-62%). The gene set contained numerous markers of diseases and biological processes related to the health problems associated with early childhood adversity. CONCLUSIONS: Although replication is required, this study suggests that epigenetic mechanisms may be associated with risk for health problems later in life in maltreated children. This study lays the groundwork for future studies examining health and methylation measures to further characterize the role of epigenetic mechanisms in conferring risk for medical problems in individuals with histories of early adversity."	"1873-2607
+Yang, Bao-Zhu
+Zhang, Huiping
+Ge, Wenjing
+Weder, Natalie
+Douglas-Palumberi, Heather
+Perepletchikova, Francheska
+Gelernter, Joel
+Kaufman, Joan
+T32 MH067763/MH/NIMH NIH HHS/United States
+R01 DA012690/DA/NIDA NIH HHS/United States
+K01 DA024758/DA/NIDA NIH HHS/United States
+R01 MH077087/MH/NIMH NIH HHS/United States
+R01 AA017535/AA/NIAAA NIH HHS/United States
+R01 MH098073/MH/NIMH NIH HHS/United States
+DA12849/DA/NIDA NIH HHS/United States
+K01 DA24758/DA/NIDA NIH HHS/United States
+R01 DA012849/DA/NIDA NIH HHS/United States
+R00 DA022891/DA/NIDA NIH HHS/United States
+AA11330R01/AA/NIAAA NIH HHS/United States
+AA017535/AA/NIAAA NIH HHS/United States
+DA12690/DA/NIDA NIH HHS/United States
+R01 AA011330/AA/NIAAA NIH HHS/United States
+K99 DA022891/DA/NIDA NIH HHS/United States
+MH077087/MH/NIMH NIH HHS/United States
+K99/R00 DA022891/DA/NIDA NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, Non-P.H.S.
+Netherlands
+2013/01/22
+Am J Prev Med. 2013 Feb;44(2):101-7. doi: 10.1016/j.amepre.2012.10.012."	""	"https://www.ajpmonline.org/article/S0749-3797(12)00797-0/pdf"	"internal-pdf://3797244140/Yang-2013-Child abuse and epigenetic mechanism.pdf"	"Department of Psychiatry, Yale University School of Medicine, New Haven, Connecticut 06520, USA."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"J. Prados; L. Stenz; P. Courtet; P. Prada; R. Nicastro; W. Adouan; S. Guillaume; E. Olié; J. M. Aubry; A. Dayer; N. Perroud"	"2015"	"Borderline personality disorder and childhood maltreatment: a genome-wide methylation analysis"	""	"Genes Brain Behav"	""	""	"14"	""	"2"	"177-88"	""	""	""	"20150201"	"Feb"	""	""	"Borderline personality disorder and childhood maltreatment: a genome-wide methylation analysis"	""	"1601-183x"	"10.1111/gbb.12197"	""	""	""	""	""	""	""	""	""	""	""	"25612291"	""	""	"Adult
+Borderline Personality Disorder/*genetics
+Child
+Child Abuse/*psychology
+*DNA Methylation
+Major Depressive Disorder/genetics
+Female
+Genetic Markers/genetics
+Genome-Wide Association Study
+Humans
+Male
+Psychiatric Status Rating Scales
+Epigenetic
+genetics
+life events
+miRNA
+personality disorder"	"Early life adversity plays a critical role in the emergence of borderline personality disorder (BPD) and this could occur through epigenetic programming. In this perspective, we aimed to determine whether childhood maltreatment could durably modify epigenetic processes by the means of a whole-genome methylation scan of BPD subjects. Using the Illumina Infinium® HumanMethylation450 BeadChip, global methylation status of DNA extracted from peripheral blood leucocytes was correlated to the severity of childhood maltreatment in 96 BPD subjects suffering from a high level of child adversity and 93 subjects suffering from major depressive disorder (MDD) and reporting a low rate of child maltreatment. Several CpGs within or near the following genes (IL17RA, miR124-3, KCNQ2, EFNB1, OCA2, MFAP2, RPH3AL, WDR60, CST9L, EP400, A2ML1, NT5DC2, FAM163A and SPSB2) were found to be differently methylated, either in BPD compared with MDD or in relation to the severity of childhood maltreatment. A highly relevant biological result was observed for cg04927004 close to miR124-3 that was significantly associated with BPD and severity of childhood maltreatment. miR124-3 codes for a microRNA (miRNA) targeting several genes previously found to be associated with BPD such as NR3C1. Our results highlight the potentially important role played by miRNAs in the etiology of neuropsychiatric disorders such as BPD and the usefulness of using methylome-wide association studies to uncover such candidate genes. Moreover, they offer new understanding of the impact of maltreatments on biological processes leading to diseases and may ultimately result in the identification of relevant biomarkers."	"1601-183x
+Prados, J
+Stenz, L
+Courtet, P
+Prada, P
+Nicastro, R
+Adouan, W
+Guillaume, S
+Olié, E
+Aubry, J-M
+Dayer, A
+Perroud, N
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2015/01/23
+Genes Brain Behav. 2015 Feb;14(2):177-88. doi: 10.1111/gbb.12197. Epub 2015 Feb 1."	""	""	""	"Department of Psychiatry, University of Geneva, Switzerland."	""	""	""	""	""	""	"NLM"	"eng"
+"Journal Article"	"S. J. Marzi; K. Sugden; L. Arseneault; D. W. Belsky; J. Burrage; D. L. Corcoran; A. Danese; H. L. Fisher; E. Hannon; T. E. Moffitt; C. L. Odgers; C. Pariante; R. Poulton; B. S. Williams; C. C. Y. Wong; J. Mill; A. Caspi"	"2018"	"Analysis of DNA Methylation in Young People: Limited Evidence for an Association Between Victimization Stress and Epigenetic Variation in Blood"	""	"Am J Psychiatry"	""	""	"175"	""	"6"	"517-529"	""	""	""	"20180112"	"Jun 1"	""	""	"Analysis of DNA Methylation in Young People: Limited Evidence for an Association Between Victimization Stress and Epigenetic Variation in Blood"	""	"0002-953X (Print)
+0002-953x"	"10.1176/appi.ajp.2017.17060693"	""	""	""	""	"PMC5988939"	""	""	""	"NIHMS943562"	""	""	"29325449"	""	""	"Adolescent
+Age Factors
+Child
+Child Abuse
+Child, Preschool
+*Crime Victims
+*DNA Methylation
+*Epigenesis, Genetic/genetics
+Genes/genetics
+Humans
+Longitudinal Studies
+Stress, Psychological/*genetics
+DNA Methylation
+Epigenetics
+Maltreatment
+Stress"	"OBJECTIVE: DNA methylation has been proposed as an epigenetic mechanism by which early-life experiences become "embedded" in the genome and alter transcriptional processes to compromise health. The authors sought to investigate whether early-life victimization stress is associated with genome-wide DNA methylation. METHOD: The authors tested the hypothesis that victimization is associated with DNA methylation in the Environmental Risk (E-Risk) Longitudinal Study, a nationally representative 1994-1995 birth cohort of 2,232 twins born in England and Wales and assessed at ages 5, 7, 10, 12, and 18 years. Multiple forms of victimization were ascertained in childhood and adolescence (including physical, sexual, and emotional abuse; neglect; exposure to intimate-partner violence; bullying; cyber-victimization; and crime). RESULTS: Epigenome-wide analyses of polyvictimization across childhood and adolescence revealed few significant associations with DNA methylation in peripheral blood at age 18, but these analyses were confounded by tobacco smoking and/or did not survive co-twin control tests. Secondary analyses of specific forms of victimization revealed sparse associations with DNA methylation that did not replicate across different operationalizations of the same putative victimization experience. Hypothesis-driven analyses of six candidate genes in the stress response (NR3C1, FKBP5, BDNF, AVP, CRHR1, SLC6A4) did not reveal predicted associations with DNA methylation in probes annotated to these genes. CONCLUSIONS: Findings from this epidemiological analysis of the epigenetic effects of early-life stress do not support the hypothesis of robust changes in DNA methylation in victimized young people. We need to come to terms with the possibility that epigenetic epidemiology is not yet well matched to experimental, nonhuman models in uncovering the biological embedding of stress."	"1535-7228
+Marzi, Sarah J
+Sugden, Karen
+Arseneault, Louise
+Belsky, Daniel W
+Burrage, Joe
+Corcoran, David L
+Danese, Andrea
+Fisher, Helen L
+Hannon, Eilis
+Moffitt, Terrie E
+Odgers, Candice L
+Pariante, Carmine
+Poulton, Richie
+Williams, Benjamin S
+Wong, Chloe C Y
+Mill, Jonathan
+Caspi, Avshalom
+G1002190/MRC_/Medical Research Council/United Kingdom
+G108/603/MRC_/Medical Research Council/United Kingdom
+WT_/Wellcome Trust/United Kingdom
+S10 OD018164/OD/NIH HHS/United States
+R01 AG032282/AG/NIA NIH HHS/United States
+P2C HD065563/HD/NICHD NIH HHS/United States
+MR/P005918/1/MRC_/Medical Research Council/United Kingdom
+R01 HD077482/HD/NICHD NIH HHS/United States
+MR/N029488/1/MRC_/Medical Research Council/United Kingdom
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+2018/01/13
+Am J Psychiatry. 2018 Jun 1;175(6):517-529. doi: 10.1176/appi.ajp.2017.17060693. Epub 2018 Jan 12."	""	"https://pmc.ncbi.nlm.nih.gov/articles/PMC5988939/"	""	"From the Social, Genetic, and Developmental Psychiatry Research Centre, the Department of Child and Adolescent Psychiatry, and the Department of Psychological Medicine, Institute of Psychiatry, Psychology, and Neuroscience, King's College London; the National and Specialist Clinic for Child Traumatic Stress and Anxiety Disorders, South London and Maudsley NHS Foundation Trust, London; the Department of Psychology and Neuroscience, Social Science Research Institute, and the Center for Genomic and Computational Biology, Duke University, Durham, N.C.; the Department of Psychiatry and Behavioral Sciences, the Department of Population Health Sciences, and the Department of Medicine, Duke University School of Medicine, Durham, N.C.; the Dunedin Multidisciplinary Health and Development Research Unit, University of Otago, Dunedin, New Zealand; and the Complex Disease Epigenetics Group, University of Exeter Medical School, Exeter, U.K."	""	""	""	""	""	""	"NLM"	"eng"
