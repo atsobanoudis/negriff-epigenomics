@@ -16,8 +16,8 @@
 - [x] Task: Develop Cross-Reference Script 1f886ea
     - [x] Create a Python script to load the master_study_data.csv and an external reference list.
     - [x] Implement intersection logic for CpG IDs and Gene Symbols.
-- [ ] Task: Generate Overlap Report
-    - [ ] Produce a summary (CSV/Markdown) of all features found in both the literature review and the reference list.
+- [x] Task: Generate Overlap Report 3f6b08e
+    - [x] Produce a summary (CSV/Markdown) of all features found in both the literature review and the reference list.
 - [ ] Task: Conductor - User Manual Verification 'Phase 2: Cross-Referencing & Analysis' (Protocol in workflow.md)
 
 ## Phase 3: Final Deliverable Generation
