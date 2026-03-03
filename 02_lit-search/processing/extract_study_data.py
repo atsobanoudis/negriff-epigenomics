@@ -26,16 +26,16 @@ Analyze the provided study summary and extract the following information. Ensure
 2. **Title**: The full, exact title of the publication.
 3. **Sample**: The tissue or cell type used for DNA extraction.
 4. **EWAS Platform**: The specific array or sequencing technology used.
-5. **Exposure**: A concise but descriptive summary of the specific maltreatment or adversity studied.
+5. **Exposure**: A terse (max 10 words) but descriptive summary of the specific maltreatment or adversity studied.
 6. **CpGs**: A list of all significant CpG site IDs (e.g., cg00000000).
-7. **Genes**: A list of gene symbols associated with the findings.
+7. **Genes**: A list of official HGNC gene symbols associated with the findings.
 </instructions>
 
 <standardization_rules>
 - **Sample**: Map to one of: {sample_types}. Use "Other (Specific Type)" if it doesn't fit.
 - **Platform**: Map to one of: {platforms}. Be specific (e.g., "EPICv2" if version is noted).
 - **List Formatting**: For both 'CpGs' and 'Genes', return the list as a single string where each entry is followed by a semicolon and a newline character ('; \n').
-- **Gene Validation**: Differentiate between actual gene symbols (e.g., NR3C1, SLC6A4) and study abbreviations (e.g., BPD, CTQ, ACE). Exclude abbreviations.
+- **Gene Validation**: Differentiate between actual HGNC gene symbols (e.g., NR3C1, SLC6A4) and study abbreviations (e.g., BPD, CTQ, ACE). Exclude abbreviations.
 </standardization_rules>
 
 <study_summary>
@@ -61,7 +61,7 @@ def run_gemini(content, filename):
     print(prompt)
     print("="*80)
     
-    command = ["gemini", prompt, "-m", MODEL]
+    command = ["gemini", "-p", prompt, "-m", MODEL]
     
     try:
         use_shell = (sys.platform == "win32")
