@@ -1,0 +1,19 @@
+{
+  "pmid": "29258561",
+  "title": "A pilot investigation on DNA methylation modifications associated with complex posttraumatic symptoms in elderly traumatized in childhood",
+  "sample": "Buccal",
+  "ewas_platform": "450k",
+  "exposure": "Complex posttraumatic stress disorder symptoms in former child laborers",
+  "cpgs": [
+    "cg12320221",
+    "cg12328023",
+    "cg20739864",
+    "cg07225277"
+  ],
+  "genes": [
+    "HAP1",
+    "RANBP2",
+    "PSMA4",
+    "CARNS1"
+  ]
+}

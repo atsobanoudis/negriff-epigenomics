@@ -1,0 +1,32 @@
+{
+  "pmid": "41504111",
+  "title": "Inter-individual differentially methylated region-targeted EWAS reveals epigenetic signatures of early childhood adversity",
+  "sample": "Saliva",
+  "ewas_platform": "Other (CDMVv3 capture probe system)",
+  "exposure": "Adverse Childhood Experiences (ACEs) between birth and age five",
+  "cpgs": [],
+  "genes": [
+    "OSBPL3",
+    "LRRK1",
+    "CHSY1",
+    "PTBP1",
+    "MIR4745",
+    "PIK3CD",
+    "EIF4G2",
+    "SNORD97",
+    "LINC02907",
+    "PPP1R26-AS1",
+    "MINDY4",
+    "AQP1",
+    "LZTS2",
+    "KCNT1",
+    "ZNF423",
+    "LINC01535",
+    "TSPAN9",
+    "PARP12",
+    "SNAI3",
+    "SNAI3-AS1",
+    "SEC14L1",
+    "CRHBP"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "29325449",
+  "title": "Analysis of DNA Methylation in Young People: Limited Evidence for an Association Between Victimization Stress and Epigenetic Variation in Blood",
+  "sample": "Blood",
+  "ewas_platform": "450k",
+  "exposure": "Childhood and adolescent victimization, polyvictimization, and retrospective trauma.",
+  "cpgs": [
+    "cg05575921",
+    "cg26703534",
+    "cg21161138",
+    "cg00944304",
+    "cg03636183",
+    "cg03960390",
+    "cg07146173",
+    "cg23035419",
+    "cg25551168",
+    "cg20954537",
+    "cg00140191"
+  ],
+  "genes": [
+    "AHRR",
+    "BAHDI",
+    "F2RL3",
+    "RERI",
+    "ALKBH5",
+    "AVP",
+    "BDNF",
+    "FKBP5"
+  ]
+}

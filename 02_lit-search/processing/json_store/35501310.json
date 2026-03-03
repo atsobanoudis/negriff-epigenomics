@@ -1,0 +1,24 @@
+{
+  "pmid": "35501310",
+  "title": "An epigenetic association analysis of childhood trauma in psychosis reveals possible overlap with methylation changes associated with PTSD",
+  "sample": "Blood",
+  "ewas_platform": "EPIC",
+  "exposure": "Childhood trauma (emotional, physical, sexual abuse and neglect) in psychosis",
+  "cpgs": [
+    "cg07625619"
+  ],
+  "genes": [
+    "TMCO7",
+    "AIRE",
+    "ALOX12",
+    "CREB5",
+    "ATG101",
+    "RPTOR",
+    "FDFT1",
+    "SMIM24",
+    "DOCK8",
+    "PM20D1",
+    "RAET1L",
+    "HM13"
+  ]
+}

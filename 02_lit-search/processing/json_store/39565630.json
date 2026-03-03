@@ -1,0 +1,38 @@
+{
+  "pmid": "39565630",
+  "title": "War Exposure and DNA Methylation in Syrian Refugee Children and Adolescents",
+  "sample": "Saliva",
+  "ewas_platform": "EPIC",
+  "exposure": "War exposure including bombardment, home violence, and personal harm",
+  "cpgs": [
+    "cg18691565",
+    "cg08095654",
+    "cg03806695",
+    "cg14747961",
+    "cg17049090",
+    "cg09582238",
+    "cg18518909",
+    "cg20560283",
+    "cg12801791",
+    "cg00588499",
+    "cg18251449",
+    "cg25844655",
+    "cg11571585",
+    "cg11337624",
+    "cg13647973",
+    "cg22321036",
+    "cg04673462",
+    "cg24244000",
+    "cg05717473"
+  ],
+  "genes": [
+    "ACBD5",
+    "SCAMP5",
+    "ADGRB2",
+    "PERM1",
+    "ATP6V1H",
+    "TESC",
+    "GSX1",
+    "ZNF718"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "30279435",
+  "title": "Exposure to childhood abuse is associated with human sperm DNA methylation",
+  "sample": "Other (Sperm)",
+  "ewas_platform": "450k",
+  "exposure": "Physical, emotional, and sexual abuse before age 18",
+  "cpgs": [
+    "cg04703951",
+    "cg00438222",
+    "cg09926099",
+    "cg00293616",
+    "cg08780220",
+    "cg02622647",
+    "cg17369694"
+  ],
+  "genes": [
+    "ARL17A",
+    "MAPT",
+    "CLU",
+    "LRRK1",
+    "PRDM16",
+    "TCERG1L",
+    "CFAP46",
+    "MIR5093",
+    "TAF1B",
+    "DLL1",
+    "SYCE1",
+    "NDFUA10",
+    "SDK1"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "pmid": "23332324",
+  "title": "Child Abuse and Epigenetic Mechanisms of Disease Risk",
+  "sample": "Saliva",
+  "ewas_platform": "450k",
+  "exposure": "Child maltreatment (abuse or neglect) leading to removal from care.",
+  "cpgs": [
+    "cg04111177"
+  ],
+  "genes": [
+    "CCDC85C",
+    "FANK1",
+    "FRG1",
+    "TMED2",
+    "WNT3A",
+    "PTPRN",
+    "SLC29A4",
+    "PTPRN2",
+    "NR3C1",
+    "CREB1"
+  ]
+}

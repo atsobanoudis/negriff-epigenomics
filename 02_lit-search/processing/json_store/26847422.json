@@ -1,0 +1,35 @@
+{
+  "pmid": "26847422",
+  "title": "Differential DNA methylation in peripheral blood mononuclear cells in adolescents exposed to significant early but not later childhood adversity",
+  "sample": "Blood",
+  "ewas_platform": "450k",
+  "exposure": "Early institutional orphanage rearing prior to international adoption",
+  "cpgs": [
+    "cg05575921",
+    "cg23067299",
+    "cg00520135",
+    "cg05968233",
+    "cg06938878",
+    "cg20359349"
+  ],
+  "genes": [
+    "TMEM200C",
+    "PPP1R3G",
+    "GLYATL2",
+    "CYP1A1",
+    "MIR324",
+    "SFRP2",
+    "ADAMTS2",
+    "ESM1",
+    "MIR873",
+    "CFTR",
+    "CALCB",
+    "OR4C13",
+    "ATP8A2",
+    "TPM1",
+    "FAM215A",
+    "ALKBH7",
+    "CERK",
+    "AHRR"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "24655651",
+  "title": "Child Abuse, Depression, and Methylation in Genes Involved with Stress, Neural Plasticity, and Brain Circuitry",
+  "sample": "Saliva",
+  "ewas_platform": "450k",
+  "exposure": "Child maltreatment (abuse and/or neglect) and depression",
+  "cpgs": [
+    "cg03535461",
+    "cg04230438",
+    "cg14055193",
+    "cg03235479",
+    "cg04111177",
+    "cg11152298",
+    "cg00610228"
+  ],
+  "genes": [
+    "ID3",
+    "TPPP",
+    "GRIN1",
+    "MYT1L",
+    "NR3C1",
+    "FKBP5"
+  ]
+}

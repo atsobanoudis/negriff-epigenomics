@@ -1,0 +1,31 @@
+{
+  "pmid": "30510187",
+  "title": "Childhood adversity and DNA methylation in two population-based cohorts",
+  "sample": "Other (Blood and Buccal)",
+  "ewas_platform": "450k",
+  "exposure": "Seven adverse childhood experiences (ACEs) and aggregate ACE score.",
+  "cpgs": [
+    "cg17164016",
+    "cg10303653",
+    "cg14296561",
+    "cg19335412",
+    "cg00973947",
+    "cg27347930"
+  ],
+  "genes": [
+    "TNXB",
+    "BIRC3",
+    "VPS28",
+    "TONSL",
+    "PLBD1",
+    "PRDM16",
+    "C15orf26",
+    "C8orf31",
+    "NPY",
+    "NT5C1B",
+    "ACTA2",
+    "C3orf58",
+    "LIG3",
+    "CDS"
+  ]
+}

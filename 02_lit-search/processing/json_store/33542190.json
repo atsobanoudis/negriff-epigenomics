@@ -1,0 +1,20 @@
+{
+  "pmid": "33542190",
+  "title": "DNA methylation differences associated with social anxiety disorder and early life adversity",
+  "sample": "Blood",
+  "ewas_platform": "EPIC",
+  "exposure": "Early life adversity measured via the Childhood Trauma Questionnaire",
+  "cpgs": [
+    "cg22273830"
+  ],
+  "genes": [
+    "SLC43A2",
+    "TNXB",
+    "SLC17A3",
+    "SIAH3",
+    "C2CD2L",
+    "MRPL28",
+    "ADAMTS16",
+    "GALR1"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "40057810",
+  "title": "Maternal epigenetic index links early neglect to later neglectful care and other psychopathological, cognitive, and bonding effects",
+  "sample": "Saliva",
+  "ewas_platform": "EPIC",
+  "exposure": "Childhood physical neglect",
+  "cpgs": [],
+  "genes": [
+    "DLG2",
+    "PPA2",
+    "PTPN21",
+    "ERCC3",
+    "CHAMP1",
+    "DAB1",
+    "FRAS1",
+    "CERKL",
+    "LYST",
+    "PAK1",
+    "TRIO",
+    "RBPJ",
+    "POU3F2"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "pmid": "36012217",
+  "title": "Experiences of Trauma and DNA Methylation Profiles among African American Mothers and Children",
+  "sample": "Saliva",
+  "ewas_platform": "EPIC",
+  "exposure": "Maternal lifetime traumatic events and childhood trauma exposure.",
+  "cpgs": [
+    "cg10448831"
+  ],
+  "genes": [
+    "ENOX1"
+  ]
+}

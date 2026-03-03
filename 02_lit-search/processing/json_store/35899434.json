@@ -1,0 +1,22 @@
+{
+  "pmid": "35899434",
+  "title": "Socioeconomic changes predict genome-wide DNA methylation in childhood",
+  "sample": "Blood",
+  "ewas_platform": "450k",
+  "exposure": "Socioeconomic position indicators including job loss and financial hardship",
+  "cpgs": [
+    "cg20102336",
+    "cg08638097",
+    "cg23405172",
+    "cg14212190",
+    "cg23685969",
+    "cg19260606",
+    "cg24938210",
+    "cg24121967"
+  ],
+  "genes": [
+    "OAS3",
+    "TGFBR3",
+    "MYEOV"
+  ]
+}
