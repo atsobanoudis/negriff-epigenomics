@@ -23,9 +23,9 @@
 ## Phase 3: Final Deliverable Generation
 - [x] Task: Create PRISMA Flow Chart 8e49049
     - [x] Generate a Mermaid.js diagram based on ewas-59-screen.xlsx data.
-- [ ] Task: Write Scientific Literature Review
-    - [ ] Synthesize study summaries into a comprehensive Markdown document.
-    - [ ] Include Nature-style tables for study characteristics and findings.
+- [x] Task: Write Scientific Literature Review 1fd16a4
+    - [x] Synthesize study summaries into a comprehensive Markdown document.
+    - [x] Include Nature-style tables for study characteristics and findings.
 - [ ] Task: Final Quality Audit
     - [ ] Perform a 10% spot-check of extracted data against original summaries.
     - [ ] Verify all deliverable formatting (Nature-style tables, HGNC symbols).
