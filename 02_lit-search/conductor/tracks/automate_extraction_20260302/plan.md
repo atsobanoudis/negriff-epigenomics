@@ -7,9 +7,9 @@
 - [x] Task: Execute Batch Extraction 6593054
     - [x] Run the refined extraction script against all 26 Markdown summaries in the pdfs/ directory.
     - [x] Validate that all JSON outputs are generated and traceable to PMIDs.
-- [ ] Task: Generate Master Study Sheet
-    - [ ] Aggregate JSON outputs into a consolidated Excel/CSV file (master_study_data.xlsx).
-    - [ ] Ensure column formatting aligns with the Product Guide requirements.
+- [x] Task: Generate Master Study Sheet 22ea820
+    - [x] Aggregate JSON outputs into a consolidated CSV file (master_study_data.csv).
+    - [x] Ensure column formatting aligns with the Product Guide requirements.
 - [ ] Task: Conductor - User Manual Verification 'Phase 1: Script Polishing & Data Extraction' (Protocol in workflow.md)
 
 ## Phase 2: Cross-Referencing & Analysis
