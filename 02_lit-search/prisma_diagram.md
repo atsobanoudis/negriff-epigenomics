@@ -2,7 +2,7 @@
 
 ## Query
 
-The following search query was used to identify relevant records in PubMed:
+The following search query was used to identify relevant records in PubMed on 1/9/2026:
 
 ```C
 (
