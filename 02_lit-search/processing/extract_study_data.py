@@ -9,6 +9,7 @@ import sys
 MODEL = "gemini-3-flash-preview" 
 INPUT_DIR = "pdfs"
 OUTPUT_CSV = "ewas_study_data.csv"
+JSON_DIR = "processing/json_store"
 
 # Standardization targets
 SAMPLE_TYPES = ["Blood", "Saliva", "Buccal", "Brain", "Cord Blood", "Other"]
@@ -97,6 +98,10 @@ def main():
         print(f"Error: Directory '{INPUT_DIR}' not found.")
         return
 
+    if not os.path.exists(JSON_DIR):
+        os.makedirs(JSON_DIR)
+        print(f"📁 Created JSON store: {JSON_DIR}")
+
     files = sorted([f for f in os.listdir(INPUT_DIR) if f.endswith('.md')])
     all_data = []
     
@@ -111,6 +116,13 @@ def main():
         data = run_gemini(content, filename)
         
         if data:
+            # Save raw JSON to store
+            json_filename = filename.replace('.md', '.json')
+            json_path = os.path.join(JSON_DIR, json_filename)
+            with open(json_path, 'w', encoding='utf-8') as f:
+                json.dump(data, f, indent=2)
+            print(f"💾 Saved JSON: {json_filename}")
+
             # Post-process lists for CSV storage
             if isinstance(data.get('cpgs'), list):
                 data['cpgs'] = "; \n".join(data['cpgs'])
