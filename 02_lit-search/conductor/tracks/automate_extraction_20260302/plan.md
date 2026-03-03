@@ -1,6 +1,6 @@
 # Implementation Plan: Automate Data Extraction and Final Deliverables
 
-## Phase 1: Script Polishing & Data Extraction
+## Phase 1: Script Polishing & Data Extraction [checkpoint: 6ac82a5]
 - [x] Task: Audit and Refine Extraction Prompt 8d30445
     - [x] Review processing/extract_study_data.py prompt for accuracy and standardization rules.
     - [x] Test extraction on a subset of 3 studies and verify JSON outputs.
@@ -10,7 +10,7 @@
 - [x] Task: Generate Master Study Sheet 22ea820
     - [x] Aggregate JSON outputs into a consolidated CSV file (master_study_data.csv).
     - [x] Ensure column formatting aligns with the Product Guide requirements.
-- [ ] Task: Conductor - User Manual Verification 'Phase 1: Script Polishing & Data Extraction' (Protocol in workflow.md)
+- [x] Task: Conductor - User Manual Verification 'Phase 1: Script Polishing & Data Extraction' (Protocol in workflow.md) 6ac82a5
 
 ## Phase 2: Cross-Referencing & Analysis
 - [ ] Task: Develop Cross-Reference Script
