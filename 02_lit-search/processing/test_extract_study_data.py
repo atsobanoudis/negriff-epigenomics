@@ -17,16 +17,16 @@ class TestExtractStudyData(unittest.TestCase):
         filename = "12345.md"
         
         with patch('subprocess.run') as mock_run:
-            mock_run.return_value = MagicMock(stdout='{"pmid": "12345", "title": "Test Title", "sample": "Blood", "ewas_platform": "EPIC", "exposure": "Maltreatment", "cpgs": "cg123; \\n", "genes": "GENE1; \\n"}', stderr='')
+            mock_run.return_value = MagicMock(stdout='{"pmid": "12345", "title": "Test Title", "sample": "Blood", "ewas_platform": "EPIC", "exposure": "Maltreatment", "cpgs": ["cg123"], "genes": ["GENE1"]}', stderr='')
             extract_study_data.run_gemini(content, filename)
             
             args, kwargs = mock_run.call_args
-            prompt = args[0][1] 
+            prompt = args[0][2] 
             
             self.assertIn("cg00000000", prompt)
             self.assertIn("NR3C1", prompt)
             self.assertIn("SLC6A4", prompt)
-            self.assertIn("'; \\n'", prompt) 
+            self.assertIn("JSON list of strings", prompt) 
             self.assertIn("HGNC", prompt)
             self.assertIn("Sample study content", prompt)
 

@@ -34,8 +34,9 @@ Analyze the provided study summary and extract the following information. Ensure
 <standardization_rules>
 - **Sample**: Map to one of: {sample_types}. Use "Other (Specific Type)" if it doesn't fit.
 - **Platform**: Map to one of: {platforms}. Be specific (e.g., "EPICv2" if version is noted).
-- **List Formatting**: For both 'CpGs' and 'Genes', return the list as a single string where each entry is followed by a semicolon and a newline character ('; \n').
+- **List Formatting**: Return 'cpgs' and 'genes' as a JSON list of strings. If no data is found for a field, return an empty list [].
 - **Gene Validation**: Differentiate between actual HGNC gene symbols (e.g., NR3C1, SLC6A4) and study abbreviations (e.g., BPD, CTQ, ACE). Exclude abbreviations.
+- **CpG Validation**: Ensure all CpG IDs follow the cgXXXXXXXX format.
 </standardization_rules>
 
 <study_summary>
@@ -49,6 +50,9 @@ Return ONLY a valid JSON object with these exact keys:
 """.strip()
 
 def run_gemini(content, filename):
+    """
+    Format the prompt, invoke Gemini CLI, and parse the JSON output.
+    """
     prompt = PROMPT_TEMPLATE.format(
         sample_types=", ".join(SAMPLE_TYPES),
         platforms=", ".join(PLATFORMS),
@@ -86,11 +90,14 @@ def run_gemini(content, filename):
         return None
 
 def main():
+    """
+    Main execution loop: list files, extract data via Gemini, and save to CSV.
+    """
     if not os.path.exists(INPUT_DIR):
         print(f"Error: Directory '{INPUT_DIR}' not found.")
         return
 
-    files = [f for f in os.listdir(INPUT_DIR) if f.endswith('.md')]
+    files = sorted([f for f in os.listdir(INPUT_DIR) if f.endswith('.md')])
     all_data = []
     
     print(f"🚀 Starting extraction for {len(files)} files using {MODEL}...\n")
@@ -104,6 +111,12 @@ def main():
         data = run_gemini(content, filename)
         
         if data:
+            # Post-process lists for CSV storage
+            if isinstance(data.get('cpgs'), list):
+                data['cpgs'] = "; \n".join(data['cpgs'])
+            if isinstance(data.get('genes'), list):
+                data['genes'] = "; \n".join(data['genes'])
+                
             data['filename'] = filename
             all_data.append(data)
             print(f"✅ Successfully parsed {filename}")
