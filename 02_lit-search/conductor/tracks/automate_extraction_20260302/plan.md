@@ -1,9 +1,9 @@
 # Implementation Plan: Automate Data Extraction and Final Deliverables
 
 ## Phase 1: Script Polishing & Data Extraction
-- [~] Task: Audit and Refine Extraction Prompt
-    - [ ] Review processing/extract_study_data.py prompt for accuracy and standardization rules.
-    - [ ] Test extraction on a subset of 3 studies and verify JSON outputs.
+- [x] Task: Audit and Refine Extraction Prompt 8d30445
+    - [x] Review processing/extract_study_data.py prompt for accuracy and standardization rules.
+    - [x] Test extraction on a subset of 3 studies and verify JSON outputs.
 - [ ] Task: Execute Batch Extraction
     - [ ] Run the refined extraction script against all 26 Markdown summaries in the pdfs/ directory.
     - [ ] Validate that all JSON outputs are generated and traceable to PMIDs.
