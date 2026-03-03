@@ -1,0 +1,793 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>prisma_diagram.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1 id="screening-process">Screening Process</h1>
+<h2 id="query">Query</h2>
+<p>The following search query was used to identify relevant records in PubMed on 1/9/2026:</p>
+<pre class="hljs"><code><div>(
+  (
+    <span class="hljs-string">"EWAS"</span>[Title/Abstract]
+    OR <span class="hljs-string">"epigenome-wide"</span>[Title/Abstract]
+    OR <span class="hljs-string">"epigenome wide"</span>[Title/Abstract]
+    OR <span class="hljs-string">"genome-wide methylation"</span>[Title/Abstract]
+    OR <span class="hljs-string">"methylation array"</span>[Title/Abstract]
+    OR <span class="hljs-string">"450k"</span>[Title/Abstract]
+    OR <span class="hljs-string">"HumanMethylation450"</span>[Title/Abstract]
+    OR <span class="hljs-string">"EPIC array"</span>[Title/Abstract]
+    OR <span class="hljs-string">"MethylationEPIC"</span>[Title/Abstract]
+    OR <span class="hljs-string">"850k"</span>[Title/Abstract]
+    OR <span class="hljs-string">"Infinium"</span>[Title/Abstract]
+  )
+  AND
+  (
+    <span class="hljs-string">"Adverse Childhood Experiences"</span>[MeSH]
+    OR <span class="hljs-string">"Child Abuse"</span>[MeSH]
+    OR <span class="hljs-string">"child abuse"</span>[Title/Abstract]
+    OR <span class="hljs-string">"child maltreatment"</span>[Title/Abstract]
+    OR <span class="hljs-string">"childhood trauma"</span>[Title/Abstract]
+    OR <span class="hljs-string">"traumatic childhood experiences"</span>[Title/Abstract]
+    OR <span class="hljs-string">"early life stress"</span>[Title/Abstract]
+    OR <span class="hljs-string">"early-life stress"</span>[Title/Abstract]
+    OR <span class="hljs-string">"early life adversity"</span>[Title/Abstract]
+    OR <span class="hljs-string">"childhood adversity"</span>[Title/Abstract]
+    OR <span class="hljs-string">"adverse childhood experience"</span>[Title/Abstract]
+    OR <span class="hljs-string">"adverse childhood experiences"</span>[Title/Abstract]
+    OR <span class="hljs-string">"early abuse experiences"</span>[Title/Abstract]
+    OR <span class="hljs-string">"adolescent trauma"</span>[Title/Abstract]
+  )
+)
+AND humans[Filter]
+NOT (
+  review[Publication Type]
+  OR editorial[Publication Type]
+  OR comment[Publication Type]
+  OR letter[Publication Type]
+)
+</div></code></pre>
+<p>Journals were screened based on the population and methodology available in their abstracts; if criteria were unclear, I tried my best to determine eligibility from deeper dive into their introduction and methods sections (when available)</p>
+<h2 id="screening">Screening</h2>
+<pre><code class="language-mermaid"><div class="mermaid">graph TD
+    A[<b>Identification</b><br/>Records identified from PubMed<br/>n = 59] --> B[<b>Screening</b><br/>Records screened<br/>n = 59]
+    B -- Excluded --> C[<b>Excluded</b><br/>n = 31]
+    
+    subgraph " "
+    C1[Not EWAS: 10]
+    C2[Methodological: 8]
+    C3[Wrong Exposure: 7]
+    C4[Intergenerational: 6]
+    end
+    
+    B --> D[<b>Eligibility</b><br/>Full-text articles assessed<br/>n = 28]
+    D -- Excluded --> E[<b>Excluded</b><br/>n = 2]
+    E1[Lack of Access: 2]
+    
+    D --> F[<b>Included</b><br/>Studies included in review<br/>n = 26]
+    
+    style A fill:none,stroke:#000,stroke-width:1px
+    style B fill:none,stroke:#000,stroke-width:1px
+    style D fill:none,stroke:#000,stroke-width:1px
+    style F fill:none,stroke:#000,stroke-width:2px
+    style C fill:none,stroke:#000,stroke-width:1px
+    style E fill:none,stroke:#000,stroke-width:1px
+</div></code></pre>
+<h2 id="summary">Summary</h2>
+<h3 id="included-studies-n--26">Included Studies (n = 26)</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">PMID</th>
+<th style="text-align:left">Title</th>
+<th style="text-align:left">Full Text</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">41504111</td>
+<td style="text-align:left">Inter-individual differentially methylated region-targeted EWAS reveals epigenetic signatures of early childhood adversity</td>
+<td style="text-align:left">Open Access</td>
+</tr>
+<tr>
+<td style="text-align:left">40057810</td>
+<td style="text-align:left">Maternal epigenetic index links early neglect to later neglectful care and other psychopathological, cognitive, and bonding effects</td>
+<td style="text-align:left">Open Access</td>
+</tr>
+<tr>
+<td style="text-align:left">35395780</td>
+<td style="text-align:left">Epigenetics of early-life adversity in youth: cross-sectional and longitudinal associations</td>
+<td style="text-align:left">Open Access</td>
+</tr>
+<tr>
+<td style="text-align:left">23332324</td>
+<td style="text-align:left">Child abuse and epigenetic mechanisms of disease risk</td>
+<td style="text-align:left">Open Access</td>
+</tr>
+<tr>
+<td style="text-align:left">27643477</td>
+<td style="text-align:left">Epigenetic signatures of childhood abuse and neglect: Implications for psychiatric vulnerability</td>
+<td style="text-align:left">Open Access</td>
+</tr>
+<tr>
+<td style="text-align:left">35501310</td>
+<td style="text-align:left">An epigenetic association analysis of childhood trauma in psychosis reveals possible overlap with methylation changes associated with PTSD</td>
+<td style="text-align:left">Open Access</td>
+</tr>
+<tr>
+<td style="text-align:left">36012217</td>
+<td style="text-align:left">Experiences of Trauma and DNA Methylation Profiles among African American Mothers and Children</td>
+<td style="text-align:left">Open Access</td>
+</tr>
+<tr>
+<td style="text-align:left">24618023</td>
+<td style="text-align:left">Childhood abuse is associated with methylation of multiple loci in adult DNA</td>
+<td style="text-align:left">Open Access</td>
+</tr>
+<tr>
+<td style="text-align:left">24655651</td>
+<td style="text-align:left">Child abuse, the oxytocin receptor gene, and epigenetic risk for depression</td>
+<td style="text-align:left">Open Access</td>
+</tr>
+<tr>
+<td style="text-align:left">25612291</td>
+<td style="text-align:left">Borderline personality disorder and childhood maltreatment: a genome-wide methylation analysis</td>
+<td style="text-align:left">Open Access</td>
+</tr>
+<tr>
+<td style="text-align:left">26847422</td>
+<td style="text-align:left">Methylation of the glucocorticoid receptor gene (NR3C1) in saliva samples of maltreated children</td>
+<td style="text-align:left">Open Access</td>
+</tr>
+<tr>
+<td style="text-align:left">28241754</td>
+<td style="text-align:left">DNA methylation profiles of elderly individuals subjected to indentured childhood labor and trauma</td>
+<td style="text-align:left">Open Access</td>
+</tr>
+<tr>
+<td style="text-align:left">29258561</td>
+<td style="text-align:left">Childhood maltreatment is associated with DNA methylation of the glucocorticoid receptor gene (NR3C1) in peripheral blood of psychiatric patients</td>
+<td style="text-align:left">Open Access</td>
+</tr>
+<tr>
+<td style="text-align:left">29325449</td>
+<td style="text-align:left">DNA methylation of the oxytocin receptor gene (OXTR) is associated with childhood maltreatment and depression in a female sample</td>
+<td style="text-align:left">Open Access</td>
+</tr>
+<tr>
+<td style="text-align:left">29795411</td>
+<td style="text-align:left">Genome-wide DNA methylation study of childhood abuse and adult mental health outcomes</td>
+<td style="text-align:left">Open Access</td>
+</tr>
+<tr>
+<td style="text-align:left">29888956</td>
+<td style="text-align:left">Epigenetic signatures of childhood adversity in the 1958 British Birth Cohort</td>
+<td style="text-align:left">Open Access</td>
+</tr>
+<tr>
+<td style="text-align:left">30279435</td>
+<td style="text-align:left">Childhood trauma and DNA methylation of the FKBP5 gene in patients with borderline personality disorder</td>
+<td style="text-align:left">Open Access</td>
+</tr>
+<tr>
+<td style="text-align:left">30510187</td>
+<td style="text-align:left">Childhood maltreatment and DNA methylation of the serotonin transporter gene (SLC6A4) in adults with major depression</td>
+<td style="text-align:left">Open Access</td>
+</tr>
+<tr>
+<td style="text-align:left">30905381</td>
+<td style="text-align:left">Epigenome-wide association study of childhood adversity and DNA methylation in the ALSPAC and NSHD cohorts</td>
+<td style="text-align:left">Open Access</td>
+</tr>
+<tr>
+<td style="text-align:left">32203862</td>
+<td style="text-align:left">Childhood adversity and DNA methylation of stress-related genes in a community sample of young adults</td>
+<td style="text-align:left">Open Access</td>
+</tr>
+<tr>
+<td style="text-align:left">33414392</td>
+<td style="text-align:left">A genome-wide methylation study reveals X chromosome and childhood trauma methylation alterations associated with borderline personality disorder</td>
+<td style="text-align:left">Open Access</td>
+</tr>
+<tr>
+<td style="text-align:left">33542190</td>
+<td style="text-align:left">Epigenetic age acceleration in adults exposed to childhood adversity</td>
+<td style="text-align:left">Open Access</td>
+</tr>
+<tr>
+<td style="text-align:left">34600028</td>
+<td style="text-align:left">Childhood trauma and DNA methylation of the GR gene in a sample of psychiatric patients</td>
+<td style="text-align:left">Open Access</td>
+</tr>
+<tr>
+<td style="text-align:left">35899434</td>
+<td style="text-align:left">DNA methylation of stress-related genes and childhood trauma in a sample of young adults</td>
+<td style="text-align:left">Open Access</td>
+</tr>
+<tr>
+<td style="text-align:left">36266402</td>
+<td style="text-align:left">Epigenetic impact of a 1-week intensive multimodal group program for adolescents with multiple adverse childhood experiences</td>
+<td style="text-align:left">Institutional Access</td>
+</tr>
+<tr>
+<td style="text-align:left">39565630</td>
+<td style="text-align:left">War Exposure and DNA Methylation in Syrian Refugee Children and Adolescents</td>
+<td style="text-align:left">Institutional Access</td>
+</tr>
+</tbody>
+</table>
+<h3 id="excluded-studies-n--33">Excluded Studies (n = 33)</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">PMID</th>
+<th style="text-align:left">Title</th>
+<th style="text-align:left">Reason</th>
+<th style="text-align:left">Explanation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">34333774</td>
+<td style="text-align:left">Paternal adverse childhood experiences: Associations with infant DNA methylation</td>
+<td style="text-align:left">Intergenerational</td>
+<td style="text-align:left">paternal ACEs assoc w/ offspring DNAm</td>
+</tr>
+<tr>
+<td style="text-align:left">37845746</td>
+<td style="text-align:left">Maternal adverse childhood experiences (ACEs) and DNA methylation of newborns in cord blood</td>
+<td style="text-align:left">Intergenerational</td>
+<td style="text-align:left">intergenerational maternal ACEs to child DNAm</td>
+</tr>
+<tr>
+<td style="text-align:left">31070508</td>
+<td style="text-align:left">Prenatal maternal depressive symptoms and infant DNA methylation: a longitudinal epigenome-wide study</td>
+<td style="text-align:left">Intergenerational</td>
+<td style="text-align:left">Prenatal maternal stress exposure to offspring outcome</td>
+</tr>
+<tr>
+<td style="text-align:left">38654405</td>
+<td style="text-align:left">Developmental epigenomic effects of maternal financial problems</td>
+<td style="text-align:left">Intergenerational</td>
+<td style="text-align:left">exposure parent stressor to offspring</td>
+</tr>
+<tr>
+<td style="text-align:left">37330044</td>
+<td style="text-align:left">Stage 2 Registered Report: Epigenetic Intergenerational Transmission: Mothers' Adverse Childhood Experiences and DNA Methylation</td>
+<td style="text-align:left">Intergenerational</td>
+<td style="text-align:left">intergenerational transmission</td>
+</tr>
+<tr>
+<td style="text-align:left">29026448</td>
+<td style="text-align:left">Newborn genome-wide DNA methylation in association with pregnancy anxiety reveals a potential role for GABBR1</td>
+<td style="text-align:left">Intergenerational</td>
+<td style="text-align:left">data measured in infants</td>
+</tr>
+<tr>
+<td style="text-align:left">37062770</td>
+<td style="text-align:left">Exploring the mediation of DNA methylation across the epigenome between childhood adversity and First Episode of Psychosis-findings from the EU-GEI study</td>
+<td style="text-align:left">Lack of Access</td>
+<td style="text-align:left">EWAS in FEP and healthy with childhood adversity scales</td>
+</tr>
+<tr>
+<td style="text-align:left">33215951</td>
+<td style="text-align:left">Childhood exposure to hunger: associations with health outcomes in later life and epigenetic markers</td>
+<td style="text-align:left">Lack of Access</td>
+<td style="text-align:left">EWAS and ELA; no full-text but results are none</td>
+</tr>
+<tr>
+<td style="text-align:left">33749330</td>
+<td style="text-align:left">Epigenetic age associates with psychosocial stress and resilience in children of Latinx immigrants</td>
+<td style="text-align:left">Methodological</td>
+<td style="text-align:left">epigenetic age; and systemic stressors  != ELA</td>
+</tr>
+<tr>
+<td style="text-align:left">35156895</td>
+<td style="text-align:left">Updates to data versions and analytic methods influence the reproducibility of results from epigenome-wide association studies</td>
+<td style="text-align:left">Methodological</td>
+<td style="text-align:left">assesses impact of data/analytic versions on ewas replicability using adversity as test case</td>
+</tr>
+<tr>
+<td style="text-align:left">26351305</td>
+<td style="text-align:left">Lymphoblastoid cell lines reveal associations of adult DNA methylation with childhood and current adversity that are distinct from whole blood associations</td>
+<td style="text-align:left">Methodological</td>
+<td style="text-align:left">pilot study assessing LCL utility vs whole blood for environmental epigenomics</td>
+</tr>
+<tr>
+<td style="text-align:left">38820651</td>
+<td style="text-align:left">Epigenetic signatures of social anxiety, panic disorders and stress experiences: Insights from genome-wide DNA methylation risk scores</td>
+<td style="text-align:left">Methodological</td>
+<td style="text-align:left">secondary analysis calc MRS; no new CpG</td>
+</tr>
+<tr>
+<td style="text-align:left">41214810</td>
+<td style="text-align:left">Impact of psychosocial stress in early life on pace of aging in young adulthood</td>
+<td style="text-align:left">Methodological</td>
+<td style="text-align:left">epigenetic age not probe-by-probe EWAS</td>
+</tr>
+<tr>
+<td style="text-align:left">39051592</td>
+<td style="text-align:left">Childhood trauma is linked to epigenetic age deceleration in young adults with previous youth residential care placements</td>
+<td style="text-align:left">Methodological</td>
+<td style="text-align:left">epigenetic age not probe-by-probe EWAS</td>
+</tr>
+<tr>
+<td style="text-align:left">38407202</td>
+<td style="text-align:left">DNA methylation-environment interactions in the human genome</td>
+<td style="text-align:left">Methodological</td>
+<td style="text-align:left">exposure is dexamethosone and IF-alpha; not cohort EWAS</td>
+</tr>
+<tr>
+<td style="text-align:left">38417921</td>
+<td style="text-align:left">Epigenetic studies in children at risk of stunting and their parents in India, Indonesia and Senegal: a UKRI GCRF Action Against Stunting Hub protocol paper</td>
+<td style="text-align:left">Methodological</td>
+<td style="text-align:left">data captured in patients from infancy</td>
+</tr>
+<tr>
+<td style="text-align:left">38467473</td>
+<td style="text-align:left">The interaction between polygenic risk score and trauma affects the likelihood of post-traumatic stress disorder in female victims of sexual assault</td>
+<td style="text-align:left">Not EWAS</td>
+<td style="text-align:left">genotyping/PRS study, not EWAS</td>
+</tr>
+<tr>
+<td style="text-align:left">31122292</td>
+<td style="text-align:left">Identification of dynamic glucocorticoid-induced methylation changes at the FKBP5 locus</td>
+<td style="text-align:left">Not EWAS</td>
+<td style="text-align:left">targeted analysis of FKBP5 locus dynamics following dexamethasone challenge</td>
+</tr>
+<tr>
+<td style="text-align:left">29781947</td>
+<td style="text-align:left">Childhood Trauma, DNA Methylation of Stress-Related Genes, and Depression: Findings From Two Monozygotic Twin Studies</td>
+<td style="text-align:left">Not EWAS</td>
+<td style="text-align:left">candidate gene study (5 genes) on childhood trauma</td>
+</tr>
+<tr>
+<td style="text-align:left">31683097</td>
+<td style="text-align:left">Investigation of MORC1 DNA methylation as biomarker of early life stress and depressive symptoms</td>
+<td style="text-align:left">Not EWAS</td>
+<td style="text-align:left">candidate gene study targeting MORC1, not EWAS</td>
+</tr>
+<tr>
+<td style="text-align:left">34424394</td>
+<td style="text-align:left">Associations of age, sex, sexual abuse, and genotype with monoamine oxidase a gene methylation</td>
+<td style="text-align:left">Not EWAS</td>
+<td style="text-align:left">candidate gene study (MAOA), not EWAS</td>
+</tr>
+<tr>
+<td style="text-align:left">23799031</td>
+<td style="text-align:left">Profiling of childhood adversity-associated DNA methylation changes in alcoholic patients and healthy controls</td>
+<td style="text-align:left">Not EWAS</td>
+<td style="text-align:left">Candidate gene study (384 CpGs, 82 genes), not EWAS</td>
+</tr>
+<tr>
+<td style="text-align:left">29028111</td>
+<td style="text-align:left">DNA methylation of methylation complex genes in relation to stress and genome-wide methylation in mother-newborn dyads</td>
+<td style="text-align:left">Not EWAS</td>
+<td style="text-align:left">candidate gene study investigating 10 specific genes and global mean methylation, not site-specific EWAS; maternal stress exposure</td>
+</tr>
+<tr>
+<td style="text-align:left">40753956</td>
+<td style="text-align:left">Examining the timing of trauma, PTSD onset, and DNA methylation: A multicohort investigation of candidate CpG sites</td>
+<td style="text-align:left">Not EWAS</td>
+<td style="text-align:left">targeted analysis of 3 specific CpGs, not EWAS</td>
+</tr>
+<tr>
+<td style="text-align:left">27323309</td>
+<td style="text-align:left">Methylation of the oxytocin receptor gene mediates the effect of adversity on negative schemas and depression</td>
+<td style="text-align:left">Not EWAS</td>
+<td style="text-align:left">candidate gene study (OXTR), not EWAS</td>
+</tr>
+<tr>
+<td style="text-align:left">35914392</td>
+<td style="text-align:left">Examining the epigenetic mechanisms of childhood adversity and sensitive periods: A gene set-based approach</td>
+<td style="text-align:left">Not EWAS</td>
+<td style="text-align:left">not genome-wide discovery analysis</td>
+</tr>
+<tr>
+<td style="text-align:left">41093898</td>
+<td style="text-align:left">Salivary DNA methylation and pubertal development in adolescents</td>
+<td style="text-align:left">Wrong Exposure</td>
+<td style="text-align:left">EWAS of puberty/development, maltreatment only implication</td>
+</tr>
+<tr>
+<td style="text-align:left">38362742</td>
+<td style="text-align:left">DNA methylation changes in association with trauma-focused psychotherapy efficacy in treatment-resistant depression patients: a prospective longitudinal study</td>
+<td style="text-align:left">Wrong Exposure</td>
+<td style="text-align:left">investigates psychotherapy treatment effects, not direct adversity association</td>
+</tr>
+<tr>
+<td style="text-align:left">39016098</td>
+<td style="text-align:left">A novel hypothesis-generating approach for detecting phenotypic associations using epigenetic data</td>
+<td style="text-align:left">Wrong Exposure</td>
+<td style="text-align:left">EWAS on dysmenorrhea/HMB; ACEs associated with conditions in secondary analysis</td>
+</tr>
+<tr>
+<td style="text-align:left">35089926</td>
+<td style="text-align:left">The methylome in females with adolescent Conduct Disorder: Neural pathomechanisms and environmental risk factors</td>
+<td style="text-align:left">Wrong Exposure</td>
+<td style="text-align:left">exposure is CD not specifically ELA/ACE etc</td>
+</tr>
+<tr>
+<td style="text-align:left">40394752</td>
+<td style="text-align:left">Maternal birth experience and DNA methylation</td>
+<td style="text-align:left">Wrong Exposure</td>
+<td style="text-align:left">exposure is perinatal factor not child maltreatment</td>
+</tr>
+<tr>
+<td style="text-align:left">30770782</td>
+<td style="text-align:left">Establishing a generalized polyepigenetic biomarker for tobacco smoking</td>
+<td style="text-align:left">Wrong Exposure</td>
+<td style="text-align:left">exposure is smoking</td>
+</tr>
+<tr>
+<td style="text-align:left">28319850</td>
+<td style="text-align:left">Methylation of HPA axis related genes in men with hypersexual disorder</td>
+<td style="text-align:left">Wrong Exposure</td>
+<td style="text-align:left">exposure is hypersexual disorder</td>
+</tr>
+</tbody>
+</table>
+
+</body>
+</html>
