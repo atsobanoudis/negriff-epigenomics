@@ -8,7 +8,7 @@ import sys
 # Configuration
 MODEL = "gemini-3-flash-preview" 
 INPUT_DIR = "pdfs"
-OUTPUT_CSV = "ewas_study_data.csv"
+OUTPUT_CSV = "master_study_data.csv"
 JSON_DIR = "processing/json_store"
 
 # Standardization targets
