@@ -4,9 +4,9 @@
 - [x] Task: Audit and Refine Extraction Prompt 8d30445
     - [x] Review processing/extract_study_data.py prompt for accuracy and standardization rules.
     - [x] Test extraction on a subset of 3 studies and verify JSON outputs.
-- [ ] Task: Execute Batch Extraction
-    - [ ] Run the refined extraction script against all 26 Markdown summaries in the pdfs/ directory.
-    - [ ] Validate that all JSON outputs are generated and traceable to PMIDs.
+- [x] Task: Execute Batch Extraction 6593054
+    - [x] Run the refined extraction script against all 26 Markdown summaries in the pdfs/ directory.
+    - [x] Validate that all JSON outputs are generated and traceable to PMIDs.
 - [ ] Task: Generate Master Study Sheet
     - [ ] Aggregate JSON outputs into a consolidated Excel/CSV file (master_study_data.xlsx).
     - [ ] Ensure column formatting aligns with the Product Guide requirements.
